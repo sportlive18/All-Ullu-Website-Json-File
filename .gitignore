@@ -1,0 +1,3 @@
+*.py
+scrapers/
+__pycache__/
