@@ -13,11 +13,10 @@ This project solely acts as an open-source indexer that scrapes publicly availab
 ├── .github/
 │   └── workflows/
 │       └── auto_scrape.yml    # GitHub Actions workflow
+├── scrapers/                  # Python scraper scripts
 ├── requirements.txt           # Python dependencies for scrapers
 ├── README.md                  # This file
 ├── botmaal.json               # Scraped JSON data for botmaal
 ├── zmasti.json                # Scraped JSON data for zmasti
 ├── ... (other json files)
 ```
-
-> **Note**: The original Python scraper scripts have been omitted from this repository.
