@@ -1,96 +1,131 @@
 {
   "source": "https://redmaal.com.co/",
-  "created_at": "2026-04-29T02:06:43.117278",
-  "total": 2871,
+  "created_at": "2026-04-30T02:06:52.855471",
+  "total": 2876,
   "episodes": [
+    {
+      "title": "Kirdaar Episode 2",
+      "duration": "14:00",
+      "upload_time": "2 Hr Ago",
+      "link": "https://redmaal.com.co/kirdaar-episode-2/",
+      "thumbnail": ""
+    },
+    {
+      "title": "Kirdaar Episode 9",
+      "duration": "12:00",
+      "upload_time": "8 Hr Ago",
+      "link": "https://redmaal.com.co/kirdaar-episode-9/",
+      "thumbnail": ""
+    },
+    {
+      "title": "Lobh Episode 2",
+      "duration": "26:00",
+      "upload_time": "9 Hr Ago",
+      "link": "https://redmaal.com.co/lobh-episode-2/",
+      "thumbnail": ""
+    },
+    {
+      "title": "Kirdaar Episode 7",
+      "duration": "18:00",
+      "upload_time": "17 Hr Ago",
+      "link": "https://redmaal.com.co/kirdaar-episode-7/",
+      "thumbnail": ""
+    },
+    {
+      "title": "Kirdaar Episode 8",
+      "duration": "14:00",
+      "upload_time": "22 Hr Ago",
+      "link": "https://redmaal.com.co/kirdaar-episode-8/",
+      "thumbnail": ""
+    },
     {
       "title": "Lobh Episode 1",
       "duration": "23:00",
-      "upload_time": "2 Hr Ago",
+      "upload_time": "1 Dy Ago",
       "link": "https://redmaal.com.co/lobh-episode-1/",
       "thumbnail": ""
     },
     {
       "title": "Panchali Episode 2",
       "duration": "18:00",
-      "upload_time": "8 Hr Ago",
+      "upload_time": "1 Dy Ago",
       "link": "https://redmaal.com.co/panchali-episode-2/",
       "thumbnail": ""
     },
     {
       "title": "Lobh Episode 3",
       "duration": "20:00",
-      "upload_time": "9 Hr Ago",
+      "upload_time": "1 Dy Ago",
       "link": "https://redmaal.com.co/lobh-episode-3/",
       "thumbnail": ""
     },
     {
       "title": "Panchali Episode 1",
       "duration": "19:00",
-      "upload_time": "11 Hr Ago",
+      "upload_time": "1 Dy Ago",
       "link": "https://redmaal.com.co/panchali-episode-1/",
       "thumbnail": ""
     },
     {
       "title": "Lobh Episode 5",
       "duration": "22:00",
-      "upload_time": "18 Hr Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://redmaal.com.co/lobh-episode-5/",
       "thumbnail": ""
     },
     {
       "title": "Lobh Episode 4",
       "duration": "22:00",
-      "upload_time": "1 Dy Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://redmaal.com.co/lobh-episode-4/",
       "thumbnail": ""
     },
     {
       "title": "Panchali Episode 3",
       "duration": "21:00",
-      "upload_time": "1 Dy Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://redmaal.com.co/panchali-episode-3/",
       "thumbnail": ""
     },
     {
       "title": "Pehla Nasha Episode 2",
       "duration": "25:00",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://redmaal.com.co/pehla-nasha-episode-2/",
       "thumbnail": ""
     },
     {
       "title": "Panchali Episode 4",
       "duration": "21:00",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://redmaal.com.co/panchali-episode-4/",
       "thumbnail": ""
     },
     {
       "title": "Pehla Nasha Episode 1",
       "duration": "23:00",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://redmaal.com.co/pehla-nasha-episode-1/",
       "thumbnail": ""
     },
     {
       "title": "Panchali Episode 5",
       "duration": "20:00",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://redmaal.com.co/panchali-episode-5/",
       "thumbnail": ""
     },
     {
       "title": "Pehla Nasha Episode 5",
       "duration": "25:00",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://redmaal.com.co/pehla-nasha-episode-5/",
       "thumbnail": ""
     },
     {
       "title": "Seva Episode 1",
       "duration": "19:00",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://redmaal.com.co/seva-episode-1/",
       "thumbnail": ""
     },
@@ -104,84 +139,84 @@
     {
       "title": "Pehla Nasha Episode 4",
       "duration": "28:00",
-      "upload_time": "3 Dy Ago",
+      "upload_time": "4 Dy Ago",
       "link": "https://redmaal.com.co/pehla-nasha-episode-4/",
       "thumbnail": ""
     },
     {
       "title": "Pehla Nasha Episode 6",
       "duration": "26:00",
-      "upload_time": "3 Dy Ago",
+      "upload_time": "4 Dy Ago",
       "link": "https://redmaal.com.co/pehla-nasha-episode-6/",
       "thumbnail": ""
     },
     {
       "title": "Sultan Episode 1",
       "duration": "28:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://redmaal.com.co/sultan-episode-1/",
       "thumbnail": ""
     },
     {
       "title": "Seva Episode 2",
       "duration": "19:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://redmaal.com.co/seva-episode-2/",
       "thumbnail": ""
     },
     {
       "title": "Seva Episode 4",
       "duration": "18:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://redmaal.com.co/seva-episode-4/",
       "thumbnail": ""
     },
     {
       "title": "Seva Episode 3",
       "duration": "22:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://redmaal.com.co/seva-episode-3/",
       "thumbnail": ""
     },
     {
       "title": "Seva Episode 5",
       "duration": "21:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://redmaal.com.co/seva-episode-5/",
       "thumbnail": ""
     },
     {
       "title": "Sultan Episode 5",
       "duration": "28:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://redmaal.com.co/sultan-episode-5/",
       "thumbnail": ""
     },
     {
       "title": "Sultan Episode 2",
       "duration": "25:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://redmaal.com.co/sultan-episode-2/",
       "thumbnail": ""
     },
     {
       "title": "Sultan Episode 3",
       "duration": "30:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://redmaal.com.co/sultan-episode-3/",
       "thumbnail": ""
     },
     {
       "title": "Sultan Episode 4",
       "duration": "28:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://redmaal.com.co/sultan-episode-4/",
       "thumbnail": ""
     },
     {
       "title": "Sultan Episode 6",
       "duration": "23:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://redmaal.com.co/sultan-episode-6/",
       "thumbnail": ""
     },
@@ -335,35 +370,35 @@
     {
       "title": "Adla Badli Episode 1",
       "duration": "21:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://redmaal.com.co/adla-badli-episode-1/",
       "thumbnail": ""
     },
     {
       "title": "Tanmay Apartment Episode 6",
       "duration": "21:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://redmaal.com.co/tanmay-apartment-episode-6/",
       "thumbnail": ""
     },
     {
       "title": "Tanmay Apartment Episode 7",
       "duration": "18:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://redmaal.com.co/tanmay-apartment-episode-7/",
       "thumbnail": ""
     },
     {
       "title": "Tanmay Apartment Episode 5",
       "duration": "21:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://redmaal.com.co/tanmay-apartment-episode-5/",
       "thumbnail": ""
     },
     {
       "title": "Do Haseena S2 Episode 2",
       "duration": "14:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://redmaal.com.co/do-haseena-s2-episode-2/",
       "thumbnail": ""
     },
@@ -531,35 +566,35 @@
     {
       "title": "Munshi Ji Episode 2",
       "duration": "19:00",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://redmaal.com.co/munshi-ji-episode-2/",
       "thumbnail": ""
     },
     {
       "title": "My First Time Episode 1",
       "duration": "16:00",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://redmaal.com.co/my-first-time-episode-1/",
       "thumbnail": ""
     },
     {
       "title": "My Tution Teacher Episode 2",
       "duration": "16:00",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://redmaal.com.co/my-tution-teacher-episode-2/",
       "thumbnail": ""
     },
     {
       "title": "My Tution Teacher Episode 3",
       "duration": "19:00",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://redmaal.com.co/my-tution-teacher-episode-3/",
       "thumbnail": ""
     },
     {
       "title": "My Tution Teacher Episode 1",
       "duration": "17:00",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://redmaal.com.co/my-tution-teacher-episode-1/",
       "thumbnail": ""
     },
@@ -2141,42 +2176,42 @@
     {
       "title": "ATM Bhabhi Episode 2",
       "duration": "16:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://redmaal.com.co/atm-bhabhi-episode-2/",
       "thumbnail": ""
     },
     {
       "title": "ATM Bhabhi Episode 5",
       "duration": "21:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://redmaal.com.co/atm-bhabhi-episode-5/",
       "thumbnail": ""
     },
     {
       "title": "ATM Bhabhi Episode 4",
       "duration": "19:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://redmaal.com.co/atm-bhabhi-episode-4/",
       "thumbnail": ""
     },
     {
       "title": "ATM Bhabhi Episode 3",
       "duration": "18:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://redmaal.com.co/atm-bhabhi-episode-3/",
       "thumbnail": ""
     },
     {
       "title": "ATM Bhabhi Episode 1",
       "duration": "18:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://redmaal.com.co/atm-bhabhi-episode-1/",
       "thumbnail": ""
     },
     {
       "title": "ATM Bhabhi Episode 6",
       "duration": "17:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://redmaal.com.co/atm-bhabhi-episode-6/",
       "thumbnail": ""
     },
@@ -4409,28 +4444,28 @@
     {
       "title": "Vasheekaran Episode 5",
       "duration": "26:00",
-      "upload_time": "3 Mo Ago",
+      "upload_time": "4 Mo Ago",
       "link": "https://redmaal.com.co/vasheekaran-episode-5/",
       "thumbnail": ""
     },
     {
       "title": "Shuddhikaran Episode 6",
       "duration": "18:00",
-      "upload_time": "3 Mo Ago",
+      "upload_time": "4 Mo Ago",
       "link": "https://redmaal.com.co/shuddhikaran-episode-6/",
       "thumbnail": ""
     },
     {
       "title": "Shuddhikaran Episode 3",
       "duration": "22:00",
-      "upload_time": "3 Mo Ago",
+      "upload_time": "4 Mo Ago",
       "link": "https://redmaal.com.co/shuddhikaran-episode-3/",
       "thumbnail": ""
     },
     {
       "title": "Nadaan Episode 3",
       "duration": "21:00",
-      "upload_time": "3 Mo Ago",
+      "upload_time": "4 Mo Ago",
       "link": "https://redmaal.com.co/nadaan-episode-3/",
       "thumbnail": ""
     },
@@ -5662,98 +5697,98 @@
     {
       "title": "Dosti Episode 3",
       "duration": "37:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://redmaal.com.co/dosti-episode-3/",
       "thumbnail": ""
     },
     {
       "title": "Dosti Episode 2",
       "duration": "19:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://redmaal.com.co/dosti-episode-2/",
       "thumbnail": ""
     },
     {
       "title": "Galtiyan Episode 3",
       "duration": "20:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://redmaal.com.co/galtiyan-episode-3-2/",
       "thumbnail": ""
     },
     {
       "title": "Galtiyan Episode 4",
       "duration": "26:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://redmaal.com.co/galtiyan-episode-4-2/",
       "thumbnail": ""
     },
     {
       "title": "Galtiyan Episode 5",
       "duration": "20:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://redmaal.com.co/galtiyan-episode-5/",
       "thumbnail": ""
     },
     {
       "title": "Dosti Episode 4",
       "duration": "16:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://redmaal.com.co/dosti-episode-4/",
       "thumbnail": ""
     },
     {
       "title": "Galtiyan Episode 1",
       "duration": "23:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://redmaal.com.co/galtiyan-episode-1-2/",
       "thumbnail": ""
     },
     {
       "title": "Ilaaj Episode 2",
       "duration": "24:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://redmaal.com.co/ilaaj-episode-2/",
       "thumbnail": ""
     },
     {
       "title": "Ilaaj Episode 6",
       "duration": "20:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://redmaal.com.co/ilaaj-episode-6/",
       "thumbnail": ""
     },
     {
       "title": "Ilaaj Episode 1",
       "duration": "21:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://redmaal.com.co/ilaaj-episode-1/",
       "thumbnail": ""
     },
     {
       "title": "Ilaaj Episode 3",
       "duration": "19:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://redmaal.com.co/ilaaj-episode-3/",
       "thumbnail": ""
     },
     {
       "title": "Ilaaj Episode 5",
       "duration": "22:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://redmaal.com.co/ilaaj-episode-5/",
       "thumbnail": ""
     },
     {
       "title": "Ilaaj Episode 4",
       "duration": "25:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://redmaal.com.co/ilaaj-episode-4/",
       "thumbnail": ""
     },
     {
       "title": "Maalamaal Episode 2",
       "duration": "20:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://redmaal.com.co/maalamaal-episode-2/",
       "thumbnail": ""
     },
@@ -7860,56 +7895,56 @@
     {
       "title": "Double Trouble Episode 2",
       "duration": "21:00",
-      "upload_time": "5 Mo Ago",
+      "upload_time": "6 Mo Ago",
       "link": "https://redmaal.com.co/double-trouble-episode-2/",
       "thumbnail": ""
     },
     {
       "title": "Double Trouble Episode 4",
       "duration": "20:00",
-      "upload_time": "5 Mo Ago",
+      "upload_time": "6 Mo Ago",
       "link": "https://redmaal.com.co/double-trouble-episode-4/",
       "thumbnail": ""
     },
     {
       "title": "Double Trouble Episode 6",
       "duration": "22:00",
-      "upload_time": "5 Mo Ago",
+      "upload_time": "6 Mo Ago",
       "link": "https://redmaal.com.co/double-trouble-episode-6/",
       "thumbnail": ""
     },
     {
       "title": "Double Trouble Episode 1",
       "duration": "19:00",
-      "upload_time": "5 Mo Ago",
+      "upload_time": "6 Mo Ago",
       "link": "https://redmaal.com.co/double-trouble-episode-1/",
       "thumbnail": ""
     },
     {
       "title": "Double Trouble Episode 5",
       "duration": "21:00",
-      "upload_time": "5 Mo Ago",
+      "upload_time": "6 Mo Ago",
       "link": "https://redmaal.com.co/double-trouble-episode-5/",
       "thumbnail": ""
     },
     {
       "title": "Double Trouble Episode 3",
       "duration": "20:00",
-      "upload_time": "5 Mo Ago",
+      "upload_time": "6 Mo Ago",
       "link": "https://redmaal.com.co/double-trouble-episode-3/",
       "thumbnail": ""
     },
     {
       "title": "Double Trouble Episode 7",
       "duration": "21:00",
-      "upload_time": "5 Mo Ago",
+      "upload_time": "6 Mo Ago",
       "link": "https://redmaal.com.co/double-trouble-episode-7/",
       "thumbnail": ""
     },
     {
       "title": "Double Trouble Episode 8",
       "duration": "23:00",
-      "upload_time": "5 Mo Ago",
+      "upload_time": "6 Mo Ago",
       "link": "https://redmaal.com.co/double-trouble-episode-8/",
       "thumbnail": ""
     },
@@ -11332,140 +11367,140 @@
     {
       "title": "Sapna Episode 5",
       "duration": "18:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://redmaal.com.co/sapna-episode-5/",
       "thumbnail": ""
     },
     {
       "title": "Bima Babu Episode 2",
       "duration": "22:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://redmaal.com.co/bima-babu-episode-2/",
       "thumbnail": ""
     },
     {
       "title": "ChutzPah Episode 2",
       "duration": "21:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://redmaal.com.co/chutzpah-episode-2/",
       "thumbnail": ""
     },
     {
       "title": "Nymph Episode 4",
       "duration": "17:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://redmaal.com.co/nymph-episode-4/",
       "thumbnail": ""
     },
     {
       "title": "Nymph Episode 1",
       "duration": "17:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://redmaal.com.co/nymph-episode-1/",
       "thumbnail": ""
     },
     {
       "title": "Choli Ke Peeche Kya Hai Episode 2",
       "duration": "25:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://redmaal.com.co/choli-ke-peeche-kya-hai-episode-2/",
       "thumbnail": ""
     },
     {
       "title": "Chuski Episode 1",
       "duration": "27:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://redmaal.com.co/chuski-episode-1/",
       "thumbnail": ""
     },
     {
       "title": "Choli Ke Peeche Kya Hai Episode 1",
       "duration": "25:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://redmaal.com.co/choli-ke-peeche-kya-hai-episode-1/",
       "thumbnail": ""
     },
     {
       "title": "Chuski Episode 5",
       "duration": "33:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://redmaal.com.co/chuski-episode-5/",
       "thumbnail": ""
     },
     {
       "title": "Chuski Episode 2",
       "duration": "25:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://redmaal.com.co/chuski-episode-2/",
       "thumbnail": ""
     },
     {
       "title": "Nymph Episode 2",
       "duration": "20:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://redmaal.com.co/nymph-episode-2/",
       "thumbnail": ""
     },
     {
       "title": "Choli Ke Peeche Kya Hai Episode 5",
       "duration": "23:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://redmaal.com.co/choli-ke-peeche-kya-hai-episode-5/",
       "thumbnail": ""
     },
     {
       "title": "Bima Babu Episode 6",
       "duration": "18:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://redmaal.com.co/bima-babu-episode-6/",
       "thumbnail": ""
     },
     {
       "title": "Chuski Episode 3",
       "duration": "",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://redmaal.com.co/chuski-episode-3/",
       "thumbnail": ""
     },
     {
       "title": "Choli Ke Peeche Kya Hai Episode 6",
       "duration": "24:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://redmaal.com.co/choli-ke-peeche-kya-hai-episode-6/",
       "thumbnail": ""
     },
     {
       "title": "Choli Ke Peeche Kya Hai Episode 4",
       "duration": "23:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://redmaal.com.co/choli-ke-peeche-kya-hai-episode-4-d1/",
       "thumbnail": ""
     },
     {
       "title": "Choli Ke Peeche Kya Hai Episode 3",
       "duration": "21:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://redmaal.com.co/choli-ke-peeche-kya-hai-episode-3/",
       "thumbnail": ""
     },
     {
       "title": "Nymph Episode 3",
       "duration": "12:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://redmaal.com.co/nymph-episode-3/",
       "thumbnail": ""
     },
     {
       "title": "Chuski Episode 4",
       "duration": "32:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://redmaal.com.co/chuski-episode-4/",
       "thumbnail": ""
     },
     {
       "title": "Chuski Episode 6",
       "duration": "16:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://redmaal.com.co/chuski-episode-6/",
       "thumbnail": ""
     },
@@ -15763,28 +15798,28 @@
     {
       "title": "Happy Ending Episode 1",
       "duration": "",
-      "upload_time": "9 Mo Ago",
+      "upload_time": "10 Mo Ago",
       "link": "https://redmaal.com.co/happy-ending-episode-1-d2/",
       "thumbnail": ""
     },
     {
       "title": "Happy Ending Episode 2",
       "duration": "",
-      "upload_time": "9 Mo Ago",
+      "upload_time": "10 Mo Ago",
       "link": "https://redmaal.com.co/happy-ending-episode-2-d1/",
       "thumbnail": ""
     },
     {
       "title": "Happy Ending Episode 3",
       "duration": "",
-      "upload_time": "9 Mo Ago",
+      "upload_time": "10 Mo Ago",
       "link": "https://redmaal.com.co/happy-ending-episode-3-d2/",
       "thumbnail": ""
     },
     {
       "title": "Happy Ending Episode 4",
       "duration": "",
-      "upload_time": "9 Mo Ago",
+      "upload_time": "10 Mo Ago",
       "link": "https://redmaal.com.co/happy-ending-episode-4-d1/",
       "thumbnail": ""
     },
@@ -16211,42 +16246,42 @@
     {
       "title": "Jamai Raja Episode 1",
       "duration": "",
-      "upload_time": "10 Mo Ago",
+      "upload_time": "11 Mo Ago",
       "link": "https://redmaal.com.co/jamai-raja-episode-1/",
       "thumbnail": ""
     },
     {
       "title": "Jamai Raja Episode 2",
       "duration": "",
-      "upload_time": "10 Mo Ago",
+      "upload_time": "11 Mo Ago",
       "link": "https://redmaal.com.co/jamai-raja-episode-2/",
       "thumbnail": ""
     },
     {
       "title": "Jamai Raja Episode 3",
       "duration": "",
-      "upload_time": "10 Mo Ago",
+      "upload_time": "11 Mo Ago",
       "link": "https://redmaal.com.co/jamai-raja-episode-3/",
       "thumbnail": ""
     },
     {
       "title": "Jamai Raja Episode 4",
       "duration": "",
-      "upload_time": "10 Mo Ago",
+      "upload_time": "11 Mo Ago",
       "link": "https://redmaal.com.co/jamai-raja-episode-4/",
       "thumbnail": ""
     },
     {
       "title": "Jamai Raja Episode 5",
       "duration": "",
-      "upload_time": "10 Mo Ago",
+      "upload_time": "11 Mo Ago",
       "link": "https://redmaal.com.co/jamai-raja-episode-5/",
       "thumbnail": ""
     },
     {
       "title": "Jamai Raja Episode 6",
       "duration": "",
-      "upload_time": "10 Mo Ago",
+      "upload_time": "11 Mo Ago",
       "link": "https://redmaal.com.co/jamai-raja-episode-6/",
       "thumbnail": ""
     },
@@ -17429,196 +17464,196 @@
     {
       "title": "Biwi Ka Khat Episode 5",
       "duration": "",
-      "upload_time": "12 Mo Ago",
+      "upload_time": "1 YR Ago",
       "link": "https://redmaal.com.co/biwi-ka-khat-episode-5-d2/",
       "thumbnail": ""
     },
     {
       "title": "Biwi Ka Khat Episode 6",
       "duration": "",
-      "upload_time": "12 Mo Ago",
+      "upload_time": "1 YR Ago",
       "link": "https://redmaal.com.co/biwi-ka-khat-episode-6-d3/",
       "thumbnail": ""
     },
     {
       "title": "Biwi Ka Khat Episode 7",
       "duration": "",
-      "upload_time": "12 Mo Ago",
+      "upload_time": "1 YR Ago",
       "link": "https://redmaal.com.co/biwi-ka-khat-episode-7-d1/",
       "thumbnail": ""
     },
     {
       "title": "Crimes And Confessions S2 Episode 1",
       "duration": "",
-      "upload_time": "12 Mo Ago",
+      "upload_time": "1 YR Ago",
       "link": "https://redmaal.com.co/crimes-and-confessions-s2-episode-1-d1/",
       "thumbnail": ""
     },
     {
       "title": "Crimes And Confessions S2 Episode 2",
       "duration": "",
-      "upload_time": "12 Mo Ago",
+      "upload_time": "1 YR Ago",
       "link": "https://redmaal.com.co/crimes-and-confessions-s2-episode-2-d1/",
       "thumbnail": ""
     },
     {
       "title": "Crimes And Confessions S2 Episode 3",
       "duration": "",
-      "upload_time": "12 Mo Ago",
+      "upload_time": "1 YR Ago",
       "link": "https://redmaal.com.co/crimes-and-confessions-s2-episode-3-d1/",
       "thumbnail": ""
     },
     {
       "title": "Crimes And Confessions S2 Episode 4",
       "duration": "",
-      "upload_time": "12 Mo Ago",
+      "upload_time": "1 YR Ago",
       "link": "https://redmaal.com.co/crimes-and-confessions-s2-episode-4-d1/",
       "thumbnail": ""
     },
     {
       "title": "Crimes And Confessions S2 Episode 5",
       "duration": "",
-      "upload_time": "12 Mo Ago",
+      "upload_time": "1 YR Ago",
       "link": "https://redmaal.com.co/crimes-and-confessions-s2-episode-5-d1/",
       "thumbnail": ""
     },
     {
       "title": "Crimes And Confessions S2 Episode 6",
       "duration": "",
-      "upload_time": "12 Mo Ago",
+      "upload_time": "1 YR Ago",
       "link": "https://redmaal.com.co/crimes-and-confessions-s2-episode-6-d1/",
       "thumbnail": ""
     },
     {
       "title": "Crimes And Confessions S2 Episode 7",
       "duration": "",
-      "upload_time": "12 Mo Ago",
+      "upload_time": "1 YR Ago",
       "link": "https://redmaal.com.co/crimes-and-confessions-s2-episode-7-d1/",
       "thumbnail": ""
     },
     {
       "title": "Crimes And Confessions S2 Episode 8",
       "duration": "",
-      "upload_time": "12 Mo Ago",
+      "upload_time": "1 YR Ago",
       "link": "https://redmaal.com.co/crimes-and-confessions-s2-episode-8-d1/",
       "thumbnail": ""
     },
     {
       "title": "Crimes And Confessions S2 Episode 9",
       "duration": "",
-      "upload_time": "12 Mo Ago",
+      "upload_time": "1 YR Ago",
       "link": "https://redmaal.com.co/crimes-and-confessions-s2-episode-9-d1/",
       "thumbnail": ""
     },
     {
       "title": "Crimes And Confessions S2 Episode 10",
       "duration": "",
-      "upload_time": "12 Mo Ago",
+      "upload_time": "1 YR Ago",
       "link": "https://redmaal.com.co/crimes-and-confessions-s2-episode-10-d1/",
       "thumbnail": ""
     },
     {
       "title": "Crimes And Confessions S2 Episode 11",
       "duration": "",
-      "upload_time": "12 Mo Ago",
+      "upload_time": "1 YR Ago",
       "link": "https://redmaal.com.co/crimes-and-confessions-s2-episode-11-d1/",
       "thumbnail": ""
     },
     {
       "title": "Crimes And Confessions S2 Episode 12",
       "duration": "",
-      "upload_time": "12 Mo Ago",
+      "upload_time": "1 YR Ago",
       "link": "https://redmaal.com.co/crimes-and-confessions-s2-episode-12-d1/",
       "thumbnail": ""
     },
     {
       "title": "Crimes And Confessions S2 Episode 13",
       "duration": "",
-      "upload_time": "12 Mo Ago",
+      "upload_time": "1 YR Ago",
       "link": "https://redmaal.com.co/crimes-and-confessions-s2-episode-13-d1/",
       "thumbnail": ""
     },
     {
       "title": "Crimes And Confessions S2 Episode 14",
       "duration": "",
-      "upload_time": "12 Mo Ago",
+      "upload_time": "1 YR Ago",
       "link": "https://redmaal.com.co/crimes-and-confessions-s2-episode-14-d1/",
       "thumbnail": ""
     },
     {
       "title": "Crimes And Confessions S2 Episode 15",
       "duration": "",
-      "upload_time": "12 Mo Ago",
+      "upload_time": "1 YR Ago",
       "link": "https://redmaal.com.co/crimes-and-confessions-s2-episode-15-d1/",
       "thumbnail": ""
     },
     {
       "title": "Crimes And Confessions S2 Episode 16",
       "duration": "",
-      "upload_time": "12 Mo Ago",
+      "upload_time": "1 YR Ago",
       "link": "https://redmaal.com.co/crimes-and-confessions-s2-episode-16-d1/",
       "thumbnail": ""
     },
     {
       "title": "Crimes And Confessions S2 Episode 17",
       "duration": "",
-      "upload_time": "12 Mo Ago",
+      "upload_time": "1 YR Ago",
       "link": "https://redmaal.com.co/crimes-and-confessions-s2-episode-17-d1/",
       "thumbnail": ""
     },
     {
       "title": "Crimes And Confessions S2 Episode 18",
       "duration": "",
-      "upload_time": "12 Mo Ago",
+      "upload_time": "1 YR Ago",
       "link": "https://redmaal.com.co/crimes-and-confessions-s2-episode-18-d1/",
       "thumbnail": ""
     },
     {
       "title": "Crimes And Confessions S2 Episode 19",
       "duration": "",
-      "upload_time": "12 Mo Ago",
+      "upload_time": "1 YR Ago",
       "link": "https://redmaal.com.co/crimes-and-confessions-s2-episode-19-d1/",
       "thumbnail": ""
     },
     {
       "title": "Crimes And Confessions S2 Episode 20",
       "duration": "",
-      "upload_time": "12 Mo Ago",
+      "upload_time": "1 YR Ago",
       "link": "https://redmaal.com.co/crimes-and-confessions-s2-episode-20-d1/",
       "thumbnail": ""
     },
     {
       "title": "Crimes And Confessions S2 Episode 21",
       "duration": "",
-      "upload_time": "12 Mo Ago",
+      "upload_time": "1 YR Ago",
       "link": "https://redmaal.com.co/crimes-and-confessions-s2-episode-21-d1/",
       "thumbnail": ""
     },
     {
       "title": "Crimes And Confessions S2 Episode 22",
       "duration": "",
-      "upload_time": "12 Mo Ago",
+      "upload_time": "1 YR Ago",
       "link": "https://redmaal.com.co/crimes-and-confessions-s2-episode-22-d1/",
       "thumbnail": ""
     },
     {
       "title": "Crimes And Confessions S2 Episode 23",
       "duration": "",
-      "upload_time": "12 Mo Ago",
+      "upload_time": "1 YR Ago",
       "link": "https://redmaal.com.co/crimes-and-confessions-s2-episode-23-d1/",
       "thumbnail": ""
     },
     {
       "title": "Crimes And Confessions S2 Episode 24",
       "duration": "",
-      "upload_time": "12 Mo Ago",
+      "upload_time": "1 YR Ago",
       "link": "https://redmaal.com.co/crimes-and-confessions-s2-episode-24-d1/",
       "thumbnail": ""
     },
     {
       "title": "Crimes And Confessions S2 Episode 25",
       "duration": "",
-      "upload_time": "12 Mo Ago",
+      "upload_time": "1 YR Ago",
       "link": "https://redmaal.com.co/crimes-and-confessions-s2-episode-25-d1/",
       "thumbnail": ""
     },
