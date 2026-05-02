@@ -1,194 +1,257 @@
 {
   "source": "https://webseriess.net/",
-  "created_at": "2026-05-01T02:14:02.050467",
-  "total": 2054,
+  "created_at": "2026-05-02T02:00:54.420284",
+  "total": 2063,
   "episodes": [
+    {
+      "title": "Rocky Episode 3",
+      "duration": "8:00",
+      "upload_time": "3 Hr Ago",
+      "link": "https://webseriess.net/rocky-episode-3/",
+      "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Rocky-E3.webp"
+    },
+    {
+      "title": "Rocky Episode 1",
+      "duration": "15:00",
+      "upload_time": "7 Hr Ago",
+      "link": "https://webseriess.net/rocky-episode-1/",
+      "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Rocky-E1.webp"
+    },
+    {
+      "title": "Shaadi Vivah Episode 2",
+      "duration": "23:00",
+      "upload_time": "9 Hr Ago",
+      "link": "https://webseriess.net/shaadi-vivah-episode-2/",
+      "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Shaadi-Vivah-E2.webp"
+    },
+    {
+      "title": "Shaadi Vivah Episode 4",
+      "duration": "19:00",
+      "upload_time": "11 Hr Ago",
+      "link": "https://webseriess.net/shaadi-vivah-episode-4/",
+      "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Shaadi-Vivah-E4.webp"
+    },
+    {
+      "title": "Andika Episode 2",
+      "duration": "14:00",
+      "upload_time": "12 Hr Ago",
+      "link": "https://webseriess.net/andika-episode-2/",
+      "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Andika-E2-1.webp"
+    },
+    {
+      "title": "Rocky Episode 2",
+      "duration": "9:00",
+      "upload_time": "18 Hr Ago",
+      "link": "https://webseriess.net/rocky-episode-2/",
+      "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Rocky-E2.webp"
+    },
+    {
+      "title": "Sanvida Episode 2",
+      "duration": "25:00",
+      "upload_time": "18 Hr Ago",
+      "link": "https://webseriess.net/sanvida-episode-2/",
+      "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Sanvida-E2.webp"
+    },
+    {
+      "title": "Shaadi Vivah Episode 1",
+      "duration": "23:00",
+      "upload_time": "19 Hr Ago",
+      "link": "https://webseriess.net/shaadi-vivah-episode-1/",
+      "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Shaadi-Vivah-E1.webp"
+    },
+    {
+      "title": "Sanvida Episode 1",
+      "duration": "20:00",
+      "upload_time": "21 Hr Ago",
+      "link": "https://webseriess.net/sanvida-episode-1/",
+      "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Sanvida-E1.webp"
+    },
     {
       "title": "Shaadi Vivah Episode 3",
       "duration": "19:00",
-      "upload_time": "18 Mnutes Ago",
+      "upload_time": "1 Dy Ago",
       "link": "https://webseriess.net/shaadi-vivah-episode-3/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Shaadi-Vivah-E3.webp"
     },
     {
       "title": "Rocky Episode 4",
       "duration": "13:00",
-      "upload_time": "3 Hr Ago",
+      "upload_time": "1 Dy Ago",
       "link": "https://webseriess.net/rocky-episode-4/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Rocky-E4.webp"
     },
     {
       "title": "Biwi Ho to Aisi Episode 2",
       "duration": "19:00",
-      "upload_time": "4 Hr Ago",
+      "upload_time": "1 Dy Ago",
       "link": "https://webseriess.net/biwi-ho-to-aisi-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Biwi-Ho-to-Aisi-Episode-2.webp"
     },
     {
       "title": "Biwi Ho to Aisi Episode 1",
       "duration": "21:00",
-      "upload_time": "7 Hr Ago",
+      "upload_time": "1 Dy Ago",
       "link": "https://webseriess.net/biwi-ho-to-aisi-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Biwi-Ho-to-Aisi-Episode-1.webp"
     },
     {
       "title": "Langot Episode 2",
       "duration": "27:00",
-      "upload_time": "10 Hr Ago",
+      "upload_time": "1 Dy Ago",
       "link": "https://webseriess.net/langot-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Langot-Episode-2.webp"
     },
     {
       "title": "What The F Episode 1",
       "duration": "12:00",
-      "upload_time": "11 Hr Ago",
+      "upload_time": "1 Dy Ago",
       "link": "https://webseriess.net/what-the-f-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2024/10/What-The-F-Episode-1.webp"
     },
     {
       "title": "Biwi Ho to Aisi Episode 3",
       "duration": "19:00",
-      "upload_time": "11 Hr Ago",
+      "upload_time": "1 Dy Ago",
       "link": "https://webseriess.net/biwi-ho-to-aisi-episode-3/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Biwi-Ho-to-Aisi-Episode-3.webp"
     },
     {
       "title": "Langot Episode 1",
       "duration": "20:00",
-      "upload_time": "13 Hr Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://webseriess.net/langot-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Langot-Episode-1.webp"
     },
     {
       "title": "Biwi Ho to Aisi Episode 4",
       "duration": "26:00",
-      "upload_time": "13 Hr Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://webseriess.net/biwi-ho-to-aisi-episode-4/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Biwi-Ho-to-Aisi-Episode-4.webp"
     },
     {
       "title": "What The F Episode 2",
       "duration": "15:00",
-      "upload_time": "20 Hr Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://webseriess.net/what-the-f-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2024/10/What-The-F-Episode-2.webp"
     },
     {
       "title": "Langot Episode 3",
       "duration": "32:00",
-      "upload_time": "1 Dy Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://webseriess.net/langot-episode-3/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Langot-Episode-3.webp"
     },
     {
       "title": "Ek Phool Do Maali Episode 2",
       "duration": "21:00",
-      "upload_time": "1 Dy Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://webseriess.net/ek-phool-do-maali-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Ek-Phool-Do-Maali-Episode-2.webp"
     },
     {
       "title": "Ek Phool Do Maali Episode 3",
       "duration": "21:00",
-      "upload_time": "1 Dy Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://webseriess.net/ek-phool-do-maali-episode-3/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Ek-Phool-Do-Maali-Episode-3.webp"
     },
     {
       "title": "Langot Episode 4",
       "duration": "19:00",
-      "upload_time": "1 Dy Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://webseriess.net/langot-episode-4/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Langot-Episode-4.webp"
     },
     {
       "title": "Ek Phool Do Maali Episode 1",
       "duration": "19:00",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://webseriess.net/ek-phool-do-maali-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Ek-Phool-Do-Maali-Episode-1.webp"
     },
     {
       "title": "Nehlee Par Dehla Episode 1",
       "duration": "21:00",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://webseriess.net/nehlee-par-dehla-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Nehlee-Par-Dehla-Episode-1.webp"
     },
     {
       "title": "Ek Phool Do Maali Episode 4",
       "duration": "22:00",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://webseriess.net/ek-phool-do-maali-episode-4/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Ek-Phool-Do-Maali-Episode-4.webp"
     },
     {
       "title": "Nehlee Par Dehla Episode 3",
       "duration": "22:00",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://webseriess.net/nehlee-par-dehla-episode-3/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Nehlee-Par-Dehla-Episode-3.webp"
     },
     {
       "title": "Nehlee Par Dehla Episode 2",
       "duration": "22:00",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://webseriess.net/nehlee-par-dehla-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Nehlee-Par-Dehla-Episode-2.webp"
     },
     {
       "title": "Ek Phool Do Maali Episode 5",
       "duration": "26:00",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://webseriess.net/ek-phool-do-maali-episode-5/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Ek-Phool-Do-Maali-Episode-5.webp"
     },
     {
       "title": "Ek Phool Do Maali Episode 6",
       "duration": "22:00",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://webseriess.net/ek-phool-do-maali-episode-6/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Ek-Phool-Do-Maali-Episode-6.webp"
     },
     {
       "title": "Seeti Maar Episode 2",
       "duration": "19:00",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://webseriess.net/seeti-maar-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Seeti-Maar-Episode-2.jpg"
     },
     {
       "title": "Angrezy Akhbar Episode 1",
       "duration": "20:00",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://webseriess.net/angrezy-akhbar-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Angrezy-Akhbar-Episode-1-1.webp"
     },
     {
       "title": "Nehlee Par Dehla Episode 5",
       "duration": "24:00",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://webseriess.net/nehlee-par-dehla-episode-5/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Nehlee-Par-Dehla-Episode-5.webp"
     },
     {
       "title": "Seeti Maar Episode 6",
       "duration": "24:00",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://webseriess.net/seeti-maar-episode-6/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Seeti-Maar-Episode-6.webp"
     },
     {
       "title": "Seeti Maar Episode 1",
       "duration": "22:00",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://webseriess.net/seeti-maar-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Seeti-Maar-Episode-1.jpg"
     },
     {
       "title": "Seeti Maar Episode 3",
       "duration": "21:00",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://webseriess.net/seeti-maar-episode-3/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Seeti-Maar-Episode-3.jpg"
     },
@@ -202,266 +265,266 @@
     {
       "title": "Seeti Maar Episode 5",
       "duration": "23:00",
-      "upload_time": "3 Dy Ago",
+      "upload_time": "4 Dy Ago",
       "link": "https://webseriess.net/seeti-maar-episode-5/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Seeti-Maar-Episode-5.webp"
     },
     {
       "title": "Seeti Maar Episode 4",
       "duration": "23:00",
-      "upload_time": "3 Dy Ago",
+      "upload_time": "4 Dy Ago",
       "link": "https://webseriess.net/seeti-maar-episode-4/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Seeti-Maar-Episode-4.jpg"
     },
     {
       "title": "Nehlee Par Dehla Episode 4",
       "duration": "21:00",
-      "upload_time": "3 Dy Ago",
+      "upload_time": "4 Dy Ago",
       "link": "https://webseriess.net/nehlee-par-dehla-episode-4/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Nehlee-Par-Dehla-Episode-4.webp"
     },
     {
       "title": "Aakhri Raat Episode 2",
       "duration": "19:00",
-      "upload_time": "3 Dy Ago",
+      "upload_time": "4 Dy Ago",
       "link": "https://webseriess.net/aakhri-raat-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/09/Aakhri-Raat-Episode-2.webp"
     },
     {
       "title": "Aakhri Raat Episode 3",
       "duration": "15:00",
-      "upload_time": "3 Dy Ago",
+      "upload_time": "4 Dy Ago",
       "link": "https://webseriess.net/aakhri-raat-episode-3/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/09/Aakhri-Raat-Episode-3.webp"
     },
     {
       "title": "Angrezy Akhbar Episode 2",
       "duration": "24:00",
-      "upload_time": "3 Dy Ago",
+      "upload_time": "4 Dy Ago",
       "link": "https://webseriess.net/angrezy-akhbar-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Angrezy-Akhbar-Episode-2-1.webp"
     },
     {
       "title": "Angrezy Akhbar Episode 5",
       "duration": "16:00",
-      "upload_time": "3 Dy Ago",
+      "upload_time": "4 Dy Ago",
       "link": "https://webseriess.net/angrezy-akhbar-episode-5/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Angrezy-Akhbar-Episode-5-1.webp"
     },
     {
       "title": "Angrezy Akhbar Episode 4",
       "duration": "12:00",
-      "upload_time": "3 Dy Ago",
+      "upload_time": "4 Dy Ago",
       "link": "https://webseriess.net/angrezy-akhbar-episode-4/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Angrezy-Akhbar-Episode-4-1.webp"
     },
     {
       "title": "Mardana Sasur Episode 2",
       "duration": "40:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://webseriess.net/mardana-sasur-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2024/10/Mardana-Sasur-Episode-2.webp"
     },
     {
       "title": "Angrezy Akhbar Episode 3",
       "duration": "17:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://webseriess.net/angrezy-akhbar-episode-3/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Angrezy-Akhbar-Episode-3-1.webp"
     },
     {
       "title": "Mardana Sasur Episode 1",
       "duration": "41:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://webseriess.net/mardana-sasur-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2024/10/Mardana-Sasur-Episode-1.webp"
     },
     {
       "title": "Aakhri Raat Episode 1",
       "duration": "26:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://webseriess.net/aakhri-raat-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/09/Aakhri-Raat-Episode-1.webp"
     },
     {
       "title": "Angrezy Akhbar Episode 6",
       "duration": "18:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://webseriess.net/angrezy-akhbar-episode-6/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Angrezy-Akhbar-Episode-6-1.webp"
     },
     {
       "title": "Gharwali Baharwali Episode 7 Jugnu",
       "duration": "25:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://webseriess.net/gharwali-baharwali-episode-7-jugnu/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Gharwali-Baharwali-Episode-7-Jugnu.webp"
     },
     {
       "title": "Gharwali Baharwali Episode 6 Jugnu",
       "duration": "19:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://webseriess.net/gharwali-baharwali-episode-6-jugnu/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Gharwali-Baharwali-Episode-6-Jugnu.webp"
     },
     {
       "title": "Gharwali Baharwali Episode 5 Jugnu",
       "duration": "19:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://webseriess.net/gharwali-baharwali-episode-5-jugnu/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Gharwali-Baharwali-Episode-5-Jugnu.webp"
     },
     {
       "title": "Lallu Ki Mami Episode 2",
       "duration": "20:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://webseriess.net/lallu-ki-mami-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/07/Lallu-Ki-Mami-Episode-2.webp"
     },
     {
       "title": "Gharwali Baharwali Episode 1 Jugnu",
       "duration": "22:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://webseriess.net/gharwali-baharwali-episode-1-jugnu/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Gharwali-Baharwali-Episode-1-Jugnu.webp"
     },
     {
       "title": "Gharwali Baharwali Episode 4 Jugnu",
       "duration": "17:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://webseriess.net/gharwali-baharwali-episode-4-jugnu/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Gharwali-Baharwali-Episode-4-Jugnu.webp"
     },
     {
       "title": "Gharwali Baharwali Episode 2 Jugnu",
       "duration": "21:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://webseriess.net/gharwali-baharwali-episode-2-jugnu/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Gharwali-Baharwali-Episode-2-Jugnu.webp"
     },
     {
       "title": "Gharwali Baharwali Episode 3 Jugnu",
       "duration": "18:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://webseriess.net/gharwali-baharwali-episode-3-jugnu/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Gharwali-Baharwali-Episode-3-Jugnu.webp"
     },
     {
       "title": "Lallu Ki Mami Episode 1",
       "duration": "22:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://webseriess.net/lallu-ki-mami-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/07/Lallu-Ki-Mami-Episode-1.webp"
     },
     {
       "title": "Lallu Ki Mami Episode 3",
       "duration": "25:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://webseriess.net/lallu-ki-mami-episode-3/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/07/Lallu-Ki-Mami-Episode-3.webp"
     },
     {
       "title": "Laachi Episode 2",
       "duration": "18:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://webseriess.net/laachi-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Laachi-Episode-2.webp"
     },
     {
       "title": "Laachi Episode 4",
       "duration": "19:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://webseriess.net/laachi-episode-4/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Laachi-Episode-4.webp"
     },
     {
       "title": "Laachi Episode 1",
       "duration": "20:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://webseriess.net/laachi-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Laachi-Episode-1.webp"
     },
     {
       "title": "Laachi Episode 5",
       "duration": "17:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://webseriess.net/laachi-episode-5/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Laachi-Episode-5.webp"
     },
     {
       "title": "Laachi Episode 3",
       "duration": "18:00",
-      "upload_time": "6 Dy Ago",
+      "upload_time": "7 Dy Ago",
       "link": "https://webseriess.net/laachi-episode-3/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Laachi-Episode-3.webp"
     },
     {
       "title": "Sainyaa Salman Episode 4",
       "duration": "20:00",
-      "upload_time": "6 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://webseriess.net/sainyaa-salman-episode-4/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Sainyaa-Salman-Episode-4.webp"
     },
     {
       "title": "Sainyaa Salman S2 Episode 2",
       "duration": "19:00",
-      "upload_time": "6 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://webseriess.net/sainyaa-salman-s2-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Sainyaa-Salman-S2-Episode-2.webp"
     },
     {
       "title": "Sainyaa Salman S2 Episode 1",
       "duration": "19:00",
-      "upload_time": "6 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://webseriess.net/sainyaa-salman-s2-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Sainyaa-Salman-S2-Episode-1.webp"
     },
     {
       "title": "Sainyaa Salman Episode 3",
       "duration": "17:00",
-      "upload_time": "6 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://webseriess.net/sainyaa-salman-episode-3/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Sainyaa-Salman-Episode-3.webp"
     },
     {
       "title": "Kangan Episode 2",
       "duration": "22:00",
-      "upload_time": "7 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://webseriess.net/kangan-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Kangan-Episode-2.webp"
     },
     {
       "title": "Sainyaa Salman Episode 1",
       "duration": "19:00",
-      "upload_time": "7 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://webseriess.net/sainyaa-salman-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Sainyaa-Salman-Episode-1.webp"
     },
     {
       "title": "Sainyaa Salman S2 Episode 3",
       "duration": "20:00",
-      "upload_time": "7 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://webseriess.net/sainyaa-salman-s2-episode-3/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Sainyaa-Salman-S2-Episode-3.webp"
     },
     {
       "title": "Sainyaa Salman Episode 2",
       "duration": "20:00",
-      "upload_time": "7 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://webseriess.net/sainyaa-salman-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Sainyaa-Salman-Episode-2.webp"
     },
     {
       "title": "Sainyaa Salman S2 Episode 4",
       "duration": "20:00",
-      "upload_time": "7 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://webseriess.net/sainyaa-salman-s2-episode-4/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Sainyaa-Salman-S2-Episode-4.webp"
     },
     {
       "title": "Kangan Episode 1",
       "duration": "19:00",
-      "upload_time": "7 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://webseriess.net/kangan-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Kangan-Episode-1.webp"
     },
@@ -643,49 +706,49 @@
     {
       "title": "Khat Kabbadi Bhaiya Ki Saali Episode 4",
       "duration": "17:00",
-      "upload_time": "1 Wk Ago",
+      "upload_time": "2 Wk Ago",
       "link": "https://webseriess.net/khat-kabbadi-bhaiya-ki-saali-episode-4/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Khat-Kabbadi-Bhaiya-Ki-Saali-Episode-4.webp"
     },
     {
       "title": "Khat Kabbadi Bhaiya Ki Saali Episode 3",
       "duration": "17:00",
-      "upload_time": "1 Wk Ago",
+      "upload_time": "2 Wk Ago",
       "link": "https://webseriess.net/khat-kabbadi-bhaiya-ki-saali-episode-3/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Khat-Kabbadi-Bhaiya-Ki-Saali-Episode-3.webp"
     },
     {
       "title": "Lodam Bhabhi S2 Episode 5",
       "duration": "19:00",
-      "upload_time": "1 Wk Ago",
+      "upload_time": "2 Wk Ago",
       "link": "https://webseriess.net/lodam-bhabhi-s2-episode-5/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Lodam-Bhabhi-S2-Episode-5.webp"
     },
     {
       "title": "Lodam Bhabhi S2 Episode 1",
       "duration": "20:00",
-      "upload_time": "1 Wk Ago",
+      "upload_time": "2 Wk Ago",
       "link": "https://webseriess.net/lodam-bhabhi-s2-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Lodam-Bhabhi-S2-Episode-1.webp"
     },
     {
       "title": "Khat Kabbadi Bhaiya Ki Saali Episode 1",
       "duration": "18:00",
-      "upload_time": "1 Wk Ago",
+      "upload_time": "2 Wk Ago",
       "link": "https://webseriess.net/khat-kabbadi-bhaiya-ki-saali-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Khat-Kabbadi-Bhaiya-Ki-Saali-Episode-1.webp"
     },
     {
       "title": "Piche Se Episode 2",
       "duration": "23:00",
-      "upload_time": "1 Wk Ago",
+      "upload_time": "2 Wk Ago",
       "link": "https://webseriess.net/piche-se-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Piche-Se-Episode-2.webp"
     },
     {
       "title": "Piche Se Episode 3",
       "duration": "20:00",
-      "upload_time": "1 Wk Ago",
+      "upload_time": "2 Wk Ago",
       "link": "https://webseriess.net/piche-se-episode-3/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Piche-Se-Episode-3.webp"
     },
@@ -1112,98 +1175,98 @@
     {
       "title": "Ghar Sasur Episode 3",
       "duration": "17:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://webseriess.net/ghar-sasur-episode-3/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Ghar-Sasur-E3.webp"
     },
     {
       "title": "Ghar Sasur Episode 4",
       "duration": "22:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://webseriess.net/ghar-sasur-episode-4/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Ghar-Sasur-E4.webp"
     },
     {
       "title": "Ghar Sasur Episode 6",
       "duration": "40:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://webseriess.net/ghar-sasur-episode-6/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Ghar-Sasur-E6.webp"
     },
     {
       "title": "Ghar Sasur Episode 2",
       "duration": "23:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://webseriess.net/ghar-sasur-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Ghar-Sasur-E2.webp"
     },
     {
       "title": "Ghar Sasur Episode 5",
       "duration": "30:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://webseriess.net/ghar-sasur-episode-5/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Ghar-Sasur-E5.webp"
     },
     {
       "title": "Ghar Sasur Episode 1",
       "duration": "27:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://webseriess.net/ghar-sasur-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Ghar-Sasur-E1.webp"
     },
     {
       "title": "Aakhri Iccha Episode 8",
       "duration": "23:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://webseriess.net/aakhri-iccha-episode-8/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Aakhri-Iccha-Episode-8.webp"
     },
     {
       "title": "Aakhri Iccha Episode 10",
       "duration": "21:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://webseriess.net/aakhri-iccha-episode-10/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Aakhri-Iccha-Episode-10.webp"
     },
     {
       "title": "Good Luck Episode 2",
       "duration": "28:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://webseriess.net/good-luck-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Good-Luck-Episode-2.webp"
     },
     {
       "title": "Good Luck Episode 8",
       "duration": "21:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://webseriess.net/good-luck-episode-8/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Good-Luck-Episode-8.webp"
     },
     {
       "title": "Good Luck Episode 7",
       "duration": "25:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://webseriess.net/good-luck-episode-7/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Good-Luck-Episode-7.webp"
     },
     {
       "title": "Good Luck Episode 3",
       "duration": "35:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://webseriess.net/good-luck-episode-3/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Good-Luck-Episode-3.webp"
     },
     {
       "title": "Good Luck Episode 4",
       "duration": "24:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://webseriess.net/good-luck-episode-4/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Good-Luck-Episode-4.webp"
     },
     {
       "title": "Good Luck Episode 5",
       "duration": "27:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://webseriess.net/good-luck-episode-5/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Good-Luck-Episode-5.webp"
     },
@@ -1623,77 +1686,77 @@
     {
       "title": "Mere Sapno Ki Rani Episode 3",
       "duration": "17:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://webseriess.net/mere-sapno-ki-rani-episode-3/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2026/04/Mere-Sapno-Ki-Rani-Episode-3.webp"
     },
     {
       "title": "Tanmay Apartment Episode 4",
       "duration": "20:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://webseriess.net/tanmay-apartment-episode-4/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2026/04/Tanmay-Apartment-Episode-4.webp"
     },
     {
       "title": "Mere Sapno Ki Rani Episode 1",
       "duration": "20:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://webseriess.net/mere-sapno-ki-rani-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2026/04/Mere-Sapno-Ki-Rani-Episode-1.webp"
     },
     {
       "title": "Madam Maya Episode 2",
       "duration": "14:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://webseriess.net/madam-maya-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2026/04/Madam-Maya-Episode-2.webp"
     },
     {
       "title": "Madam Maya Episode 1",
       "duration": "16:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://webseriess.net/madam-maya-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2026/04/Madam-Maya-Episode-1.webp"
     },
     {
       "title": "Tanmay Apartment Episode 3",
       "duration": "21:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://webseriess.net/tanmay-apartment-episode-3/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2026/04/Tanmay-Apartment-Episode-3.webp"
     },
     {
       "title": "Choti Bahu Episode 5",
       "duration": "23:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://webseriess.net/choti-bahu-episode-5/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Choti-Bahu-E5.webp"
     },
     {
       "title": "Tanmay Apartment Episode 6",
       "duration": "21:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://webseriess.net/tanmay-apartment-episode-6/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2026/04/Tanmay-Apartment-Episode-6.webp"
     },
     {
       "title": "Tanmay Apartment Episode 7",
       "duration": "18:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://webseriess.net/tanmay-apartment-episode-7/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2026/04/Tanmay-Apartment-Episode-7.webp"
     },
     {
       "title": "Tanmay Apartment Episode 8",
       "duration": "26:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://webseriess.net/tanmay-apartment-episode-8/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2026/04/Tanmay-Apartment-Episode-8.webp"
     },
     {
       "title": "Choti Bahu Episode 4",
       "duration": "19:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://webseriess.net/choti-bahu-episode-4/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Choti-Bahu-E4.webp"
     },
@@ -2015,63 +2078,63 @@
     {
       "title": "Chahat Episode 1",
       "duration": "27:00",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://webseriess.net/chahat-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Chahat-Episode-1.webp"
     },
     {
       "title": "Rosy Maam I Love You Episode 6",
       "duration": "25:00",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://webseriess.net/rosy-maam-i-love-you-episode-6/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Rosy-Maam-I-Love-You-E6.webp"
     },
     {
       "title": "Chahat Episode 4",
       "duration": "24:00",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://webseriess.net/chahat-episode-4/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Chahat-Episode-4.webp"
     },
     {
       "title": "Rosy Maam I Love You Episode 9",
       "duration": "19:00",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://webseriess.net/rosy-maam-i-love-you-episode-9/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Rosy-Maam-I-Love-You-E9.webp"
     },
     {
       "title": "Rosy Maam I Love You Episode 10",
       "duration": "23:00",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://webseriess.net/rosy-maam-i-love-you-episode-10/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Rosy-Maam-I-Love-You-E10.webp"
     },
     {
       "title": "Chahat Episode 5",
       "duration": "28:00",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://webseriess.net/chahat-episode-5/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Chahat-Episode-5.webp"
     },
     {
       "title": "Chahat Episode 2",
       "duration": "25:00",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://webseriess.net/chahat-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Chahat-Episode-2.webp"
     },
     {
       "title": "Rosy Maam I Love You Episode 8",
       "duration": "24:00",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://webseriess.net/rosy-maam-i-love-you-episode-8/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Rosy-Maam-I-Love-You-E8.webp"
     },
     {
       "title": "Rosy Maam I Love You Episode 7",
       "duration": "25:00",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://webseriess.net/rosy-maam-i-love-you-episode-7/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Rosy-Maam-I-Love-You-E7.webp"
     },
@@ -3065,63 +3128,63 @@
     {
       "title": "Chatkara Episode 5",
       "duration": "21:00",
-      "upload_time": "1 Mo Ago",
+      "upload_time": "2 Mo Ago",
       "link": "https://webseriess.net/chatkara-episode-5/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Chatkara-E5.webp"
     },
     {
       "title": "Bloody Marry Episode 4",
       "duration": "19:00",
-      "upload_time": "1 Mo Ago",
+      "upload_time": "2 Mo Ago",
       "link": "https://webseriess.net/bloody-marry-episode-4/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Bloody-Marry-Episode-4.webp"
     },
     {
       "title": "Bloody Marry Episode 1",
       "duration": "18:00",
-      "upload_time": "1 Mo Ago",
+      "upload_time": "2 Mo Ago",
       "link": "https://webseriess.net/bloody-marry-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Bloody-Marry-Episode-1.webp"
     },
     {
       "title": "Bloody Marry Episode 6",
       "duration": "23:00",
-      "upload_time": "1 Mo Ago",
+      "upload_time": "2 Mo Ago",
       "link": "https://webseriess.net/bloody-marry-episode-6/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Bloody-Marry-Episode-6.webp"
     },
     {
       "title": "Bloody Marry Episode 2",
       "duration": "21:00",
-      "upload_time": "1 Mo Ago",
+      "upload_time": "2 Mo Ago",
       "link": "https://webseriess.net/bloody-marry-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Bloody-Marry-Episode-2.webp"
     },
     {
       "title": "Bloody Marry Episode 3",
       "duration": "19:00",
-      "upload_time": "1 Mo Ago",
+      "upload_time": "2 Mo Ago",
       "link": "https://webseriess.net/bloody-marry-episode-3/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Bloody-Marry-Episode-3.webp"
     },
     {
       "title": "Bloody Marry Episode 5",
       "duration": "17:00",
-      "upload_time": "1 Mo Ago",
+      "upload_time": "2 Mo Ago",
       "link": "https://webseriess.net/bloody-marry-episode-5/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Bloody-Marry-Episode-5.webp"
     },
     {
       "title": "Chatkara Episode 6",
       "duration": "19:00",
-      "upload_time": "1 Mo Ago",
+      "upload_time": "2 Mo Ago",
       "link": "https://webseriess.net/chatkara-episode-6/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Chatkara-E6.webp"
     },
     {
       "title": "Chatkara Episode 8",
       "duration": "17:00",
-      "upload_time": "1 Mo Ago",
+      "upload_time": "2 Mo Ago",
       "link": "https://webseriess.net/chatkara-episode-8/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Chatkara-E8.webp"
     },
@@ -4878,105 +4941,105 @@
     {
       "title": "Bekaaboo S1 Episode 3",
       "duration": "20:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://webseriess.net/bekaaboo-s1-episode-3/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Bekaaboo-S1-Episode-3.webp"
     },
     {
       "title": "Bekaaboo S1 Episode 4",
       "duration": "22:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://webseriess.net/bekaaboo-s1-episode-4/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Bekaaboo-S1-Episode-4.webp"
     },
     {
       "title": "Bekaaboo S1 Episode 2",
       "duration": "22:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://webseriess.net/bekaaboo-s1-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Bekaaboo-S1-Episode-2.webp"
     },
     {
       "title": "Bekaaboo S2 Episode 10",
       "duration": "18:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://webseriess.net/bekaaboo-s2-episode-10/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Bekaaboo-S2-Episode-10.webp"
     },
     {
       "title": "Bekaaboo S1 Episode 5",
       "duration": "23:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://webseriess.net/bekaaboo-s1-episode-5/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Bekaaboo-S1-Episode-5.webp"
     },
     {
       "title": "Bekaaboo S2 Episode 7",
       "duration": "14:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://webseriess.net/bekaaboo-s2-episode-7/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Bekaaboo-S2-Episode-7.webp"
     },
     {
       "title": "Bekaaboo S1 Episode 8",
       "duration": "20:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://webseriess.net/bekaaboo-s1-episode-8/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Bekaaboo-S1-Episode-8.webp"
     },
     {
       "title": "Bekaaboo S2 Episode 9",
       "duration": "19:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://webseriess.net/bekaaboo-s2-episode-9/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Bekaaboo-S2-Episode-9.webp"
     },
     {
       "title": "Bekaaboo S2 Episode 8",
       "duration": "20:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://webseriess.net/bekaaboo-s2-episode-8/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Bekaaboo-S2-Episode-8.webp"
     },
     {
       "title": "Bekaaboo S1 Episode 9",
       "duration": "17:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://webseriess.net/bekaaboo-s1-episode-9/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Bekaaboo-S1-Episode-9.webp"
     },
     {
       "title": "Bekaaboo S1 Episode 1",
       "duration": "20:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://webseriess.net/bekaaboo-s1-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Bekaaboo-S1-Episode-1.webp"
     },
     {
       "title": "Bekaaboo S2 Episode 6",
       "duration": "14:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://webseriess.net/bekaaboo-s2-episode-6/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Bekaaboo-S2-Episode-6.webp"
     },
     {
       "title": "Bekaaboo S1 Episode 7",
       "duration": "20:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://webseriess.net/bekaaboo-s1-episode-7/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Bekaaboo-S1-Episode-7.webp"
     },
     {
       "title": "Bekaaboo S2 Episode 5",
       "duration": "18:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://webseriess.net/bekaaboo-s2-episode-5/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Bekaaboo-S2-Episode-5.webp"
     },
     {
       "title": "Bekaaboo S1 Episode 6",
       "duration": "17:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://webseriess.net/bekaaboo-s1-episode-6/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/05/Bekaaboo-S1-Episode-6.webp"
     },
@@ -6621,70 +6684,70 @@
     {
       "title": "Shilpa Ka Shikaar Episode 1",
       "duration": "18:00",
-      "upload_time": "3 Mo Ago",
+      "upload_time": "4 Mo Ago",
       "link": "https://webseriess.net/shilpa-ka-shikaar-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2026/01/Shilpa-Ka-Shikaar-Episode-1.webp"
     },
     {
       "title": "Vasu Episode 3",
       "duration": "31:00",
-      "upload_time": "3 Mo Ago",
+      "upload_time": "4 Mo Ago",
       "link": "https://webseriess.net/vasu-episode-3/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2026/01/Vasu-Episode-3.webp"
     },
     {
       "title": "Doodh Wali Episode 3",
       "duration": "19:00",
-      "upload_time": "3 Mo Ago",
+      "upload_time": "4 Mo Ago",
       "link": "https://webseriess.net/doodh-wali-episode-3/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2026/01/Doodh-Wali-Episode-3.webp"
     },
     {
       "title": "Doodh Wali Episode 5",
       "duration": "18:00",
-      "upload_time": "3 Mo Ago",
+      "upload_time": "4 Mo Ago",
       "link": "https://webseriess.net/doodh-wali-episode-5/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2026/01/Doodh-Wali-Episode-5.webp"
     },
     {
       "title": "Vasu Episode 2",
       "duration": "22:00",
-      "upload_time": "3 Mo Ago",
+      "upload_time": "4 Mo Ago",
       "link": "https://webseriess.net/vasu-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2026/01/Vasu-Episode-2.webp"
     },
     {
       "title": "Picture Abhi Baaki Hai Episode 7",
       "duration": "22:00",
-      "upload_time": "3 Mo Ago",
+      "upload_time": "4 Mo Ago",
       "link": "https://webseriess.net/picture-abhi-baaki-hai-episode-7/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2026/01/Picture-Abhi-Baaki-Hai-Episode-7.webp"
     },
     {
       "title": "Vasu Episode 1",
       "duration": "26:00",
-      "upload_time": "3 Mo Ago",
+      "upload_time": "4 Mo Ago",
       "link": "https://webseriess.net/vasu-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2026/01/Vasu-Episode-1.webp"
     },
     {
       "title": "Doodh Wali Episode 2",
       "duration": "26:00",
-      "upload_time": "3 Mo Ago",
+      "upload_time": "4 Mo Ago",
       "link": "https://webseriess.net/doodh-wali-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2026/01/Doodh-Wali-Episode-2.webp"
     },
     {
       "title": "Picture Abhi Baaki Hai Episode 8",
       "duration": "17:00",
-      "upload_time": "3 Mo Ago",
+      "upload_time": "4 Mo Ago",
       "link": "https://webseriess.net/picture-abhi-baaki-hai-episode-8/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2026/01/Picture-Abhi-Baaki-Hai-Episode-8.webp"
     },
     {
       "title": "Doodh Wali Episode 1",
       "duration": "18:00",
-      "upload_time": "3 Mo Ago",
+      "upload_time": "4 Mo Ago",
       "link": "https://webseriess.net/doodh-wali-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2026/01/Doodh-Wali-Episode-1.webp"
     },
@@ -7692,203 +7755,203 @@
     {
       "title": "Bikri Episode 5",
       "duration": "Unknown",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://webseriess.net/bikri-episode-5/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Bikri-E5.webp"
     },
     {
       "title": "Bikri Episode 1",
       "duration": "Unknown",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://webseriess.net/bikri-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Bikri-E1.webp"
     },
     {
       "title": "Innocent Episode 3",
       "duration": "16:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://webseriess.net/innocent-episode-3/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Innocent-Episode-3.webp"
     },
     {
       "title": "Shiddat Mohabbat Ki Episode 1",
       "duration": "24:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://webseriess.net/shiddat-mohabbat-ki-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Shiddat-Mohabbat-Ki-Episode-1.webp"
     },
     {
       "title": "Shiddat Mohabbat Ki Episode 2",
       "duration": "20:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://webseriess.net/shiddat-mohabbat-ki-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Shiddat-Mohabbat-Ki-Episode-2.webp"
     },
     {
       "title": "Innocent Episode 1",
       "duration": "19:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://webseriess.net/innocent-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Innocent-Episode-1.webp"
     },
     {
       "title": "Koi Jaye Toh Le Aaye Episode 3",
       "duration": "20:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://webseriess.net/koi-jaye-toh-le-aaye-episode-3/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Koi-Jaye-Toh-Le-Aaye-Episode-3.webp"
     },
     {
       "title": "Shiddat Mohabbat Ki Episode 8",
       "duration": "21:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://webseriess.net/shiddat-mohabbat-ki-episode-8/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Shiddat-Mohabbat-Ki-Episode-8.webp"
     },
     {
       "title": "Koi Jaye Toh Le Aaye Episode 7",
       "duration": "19:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://webseriess.net/koi-jaye-toh-le-aaye-episode-7/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Koi-Jaye-Toh-Le-Aaye-Episode-7.webp"
     },
     {
       "title": "Koi Jaye Toh Le Aaye Episode 4",
       "duration": "18:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://webseriess.net/koi-jaye-toh-le-aaye-episode-4/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Koi-Jaye-Toh-Le-Aaye-Episode-4.webp"
     },
     {
       "title": "Shiddat Mohabbat Ki Episode 5",
       "duration": "Unknown",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://webseriess.net/shiddat-mohabbat-ki-episode-5/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Shiddat-Mohabbat-Ki-Episode-5.webp"
     },
     {
       "title": "Shiddat Mohabbat Ki Episode 4",
       "duration": "Unknown",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://webseriess.net/shiddat-mohabbat-ki-episode-4/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Shiddat-Mohabbat-Ki-Episode-4.webp"
     },
     {
       "title": "Koi Jaye Toh Le Aaye Episode 8",
       "duration": "19:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://webseriess.net/koi-jaye-toh-le-aaye-episode-8/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Koi-Jaye-Toh-Le-Aaye-Episode-8.webp"
     },
     {
       "title": "Koi Jaye Toh Le Aaye Episode 2",
       "duration": "22:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://webseriess.net/koi-jaye-toh-le-aaye-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Koi-Jaye-Toh-Le-Aaye-Episode-2.webp"
     },
     {
       "title": "Woodpecker Episode 8",
       "duration": "17:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://webseriess.net/woodpecker-episode-8/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Woodpecker-Episode-8.webp"
     },
     {
       "title": "Koi Jaye Toh Le Aaye Episode 9",
       "duration": "24:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://webseriess.net/koi-jaye-toh-le-aaye-episode-9/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Koi-Jaye-Toh-Le-Aaye-Episode-9.webp"
     },
     {
       "title": "Shiddat Mohabbat Ki Episode 10",
       "duration": "20:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://webseriess.net/shiddat-mohabbat-ki-episode-10/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Shiddat-Mohabbat-Ki-Episode-10.webp"
     },
     {
       "title": "Koi Jaye Toh Le Aaye Episode 6",
       "duration": "17:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://webseriess.net/koi-jaye-toh-le-aaye-episode-6/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Koi-Jaye-Toh-Le-Aaye-Episode-6.webp"
     },
     {
       "title": "Shiddat Mohabbat Ki Episode 3",
       "duration": "Unknown",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://webseriess.net/shiddat-mohabbat-ki-episode-3/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Shiddat-Mohabbat-Ki-Episode-3.webp"
     },
     {
       "title": "Woodpecker Episode 7",
       "duration": "18:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://webseriess.net/woodpecker-episode-7/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Woodpecker-Episode-7.webp"
     },
     {
       "title": "Shiddat Mohabbat Ki Episode 9",
       "duration": "21:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://webseriess.net/shiddat-mohabbat-ki-episode-9/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Shiddat-Mohabbat-Ki-Episode-9.webp"
     },
     {
       "title": "Shiddat Mohabbat Ki Episode 7",
       "duration": "20:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://webseriess.net/shiddat-mohabbat-ki-episode-7/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Shiddat-Mohabbat-Ki-Episode-7.webp"
     },
     {
       "title": "Koi Jaye Toh Le Aaye Episode 10",
       "duration": "23:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://webseriess.net/koi-jaye-toh-le-aaye-episode-10/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Koi-Jaye-Toh-Le-Aaye-Episode-10.webp"
     },
     {
       "title": "Koi Jaye Toh Le Aaye Episode 1",
       "duration": "21:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://webseriess.net/koi-jaye-toh-le-aaye-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Koi-Jaye-Toh-Le-Aaye-Episode-1.webp"
     },
     {
       "title": "Shiddat Mohabbat Ki Episode 6",
       "duration": "28:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://webseriess.net/shiddat-mohabbat-ki-episode-6/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Shiddat-Mohabbat-Ki-Episode-6.webp"
     },
     {
       "title": "Koi Jaye Toh Le Aaye Episode 5",
       "duration": "21:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://webseriess.net/koi-jaye-toh-le-aaye-episode-5/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Koi-Jaye-Toh-Le-Aaye-Episode-5.webp"
     },
     {
       "title": "Shiddat Mohabbat Ki Episode 11",
       "duration": "23:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://webseriess.net/shiddat-mohabbat-ki-episode-11/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Shiddat-Mohabbat-Ki-Episode-11.webp"
     },
     {
       "title": "Innocent Episode 6",
       "duration": "19:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://webseriess.net/innocent-episode-6/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Innocent-Episode-6.webp"
     },
     {
       "title": "Innocent Episode 2",
       "duration": "15:00",
-      "upload_time": "4 Mo Ago",
+      "upload_time": "5 Mo Ago",
       "link": "https://webseriess.net/innocent-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Innocent-Episode-2.webp"
     },
@@ -10037,147 +10100,147 @@
     {
       "title": "Kissa Episode 1",
       "duration": "21:00",
-      "upload_time": "5 Mo Ago",
+      "upload_time": "6 Mo Ago",
       "link": "https://webseriess.net/kissa-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Kissa-E1.webp"
     },
     {
       "title": "Painter Babu Episode 5",
       "duration": "20:00",
-      "upload_time": "5 Mo Ago",
+      "upload_time": "6 Mo Ago",
       "link": "https://webseriess.net/painter-babu-episode-5/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Painter-Babu-E5.webp"
     },
     {
       "title": "Love Bite Episode 3",
       "duration": "18:00",
-      "upload_time": "5 Mo Ago",
+      "upload_time": "6 Mo Ago",
       "link": "https://webseriess.net/love-bite-episode-3/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Love-Bite-E3.webp"
     },
     {
       "title": "Virgin Suspect Episode 5",
       "duration": "19:00",
-      "upload_time": "5 Mo Ago",
+      "upload_time": "6 Mo Ago",
       "link": "https://webseriess.net/virgin-suspect-episode-5/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2024/11/Virgin-Suspect-Episode-5.webp"
     },
     {
       "title": "Virgin Suspect Episode 3",
       "duration": "20:00",
-      "upload_time": "5 Mo Ago",
+      "upload_time": "6 Mo Ago",
       "link": "https://webseriess.net/virgin-suspect-episode-3/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2024/11/Virgin-Suspect-Episode-3.webp"
     },
     {
       "title": "Virgin Suspect Episode 1",
       "duration": "19:00",
-      "upload_time": "5 Mo Ago",
+      "upload_time": "6 Mo Ago",
       "link": "https://webseriess.net/virgin-suspect-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2024/11/Virgin-Suspect-Episode-1.webp"
     },
     {
       "title": "Love Bite Episode 6",
       "duration": "20:00",
-      "upload_time": "5 Mo Ago",
+      "upload_time": "6 Mo Ago",
       "link": "https://webseriess.net/love-bite-episode-6/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Love-Bite-E6.webp"
     },
     {
       "title": "Painter Babu Episode 4",
       "duration": "20:00",
-      "upload_time": "5 Mo Ago",
+      "upload_time": "6 Mo Ago",
       "link": "https://webseriess.net/painter-babu-episode-4/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Painter-Babu-E4.webp"
     },
     {
       "title": "Love Bite Episode 2",
       "duration": "24:00",
-      "upload_time": "5 Mo Ago",
+      "upload_time": "6 Mo Ago",
       "link": "https://webseriess.net/love-bite-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Love-Bite-E2.webp"
     },
     {
       "title": "Virgin Suspect Episode 6",
       "duration": "15:00",
-      "upload_time": "5 Mo Ago",
+      "upload_time": "6 Mo Ago",
       "link": "https://webseriess.net/virgin-suspect-episode-6/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2024/11/Virgin-Suspect-Episode-6.webp"
     },
     {
       "title": "Painter Babu Episode 3",
       "duration": "25:00",
-      "upload_time": "5 Mo Ago",
+      "upload_time": "6 Mo Ago",
       "link": "https://webseriess.net/painter-babu-episode-3/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Painter-Babu-E3.webp"
     },
     {
       "title": "Virgin Suspect Episode 2",
       "duration": "19:00",
-      "upload_time": "5 Mo Ago",
+      "upload_time": "6 Mo Ago",
       "link": "https://webseriess.net/virgin-suspect-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2024/11/Virgin-Suspect-Episode-2.webp"
     },
     {
       "title": "Love Bite Episode 5",
       "duration": "22:00",
-      "upload_time": "5 Mo Ago",
+      "upload_time": "6 Mo Ago",
       "link": "https://webseriess.net/love-bite-episode-5/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Love-Bite-E5.webp"
     },
     {
       "title": "Painter Babu Episode 6",
       "duration": "23:00",
-      "upload_time": "5 Mo Ago",
+      "upload_time": "6 Mo Ago",
       "link": "https://webseriess.net/painter-babu-episode-6/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Painter-Babu-E6.webp"
     },
     {
       "title": "Love Bite Episode 1",
       "duration": "22:00",
-      "upload_time": "5 Mo Ago",
+      "upload_time": "6 Mo Ago",
       "link": "https://webseriess.net/love-bite-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Love-Bite-E1.webp"
     },
     {
       "title": "Kissa Episode 6",
       "duration": "17:00",
-      "upload_time": "5 Mo Ago",
+      "upload_time": "6 Mo Ago",
       "link": "https://webseriess.net/kissa-episode-6/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Kissa-E6.webp"
     },
     {
       "title": "Virgin Suspect Episode 4",
       "duration": "18:00",
-      "upload_time": "5 Mo Ago",
+      "upload_time": "6 Mo Ago",
       "link": "https://webseriess.net/virgin-suspect-episode-4/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2024/11/Virgin-Suspect-Episode-4.webp"
     },
     {
       "title": "Painter Babu Episode 1",
       "duration": "25:00",
-      "upload_time": "5 Mo Ago",
+      "upload_time": "6 Mo Ago",
       "link": "https://webseriess.net/painter-babu-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Painter-Babu-E1.webp"
     },
     {
       "title": "Painter Babu Episode 2",
       "duration": "26:00",
-      "upload_time": "5 Mo Ago",
+      "upload_time": "6 Mo Ago",
       "link": "https://webseriess.net/painter-babu-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Painter-Babu-E2.webp"
     },
     {
       "title": "Love Bite Episode 4",
       "duration": "24:00",
-      "upload_time": "5 Mo Ago",
+      "upload_time": "6 Mo Ago",
       "link": "https://webseriess.net/love-bite-episode-4/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/08/Love-Bite-E4.webp"
     },
     {
       "title": "Virgin Suspect Episode 7",
       "duration": "17:00",
-      "upload_time": "5 Mo Ago",
+      "upload_time": "6 Mo Ago",
       "link": "https://webseriess.net/virgin-suspect-episode-7/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2024/11/Virgin-Suspect-Episode-7.webp"
     },
@@ -13348,140 +13411,140 @@
     {
       "title": "Chidiya Episode 4",
       "duration": "21:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://webseriess.net/chidiya-episode-4/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/03/Chidiya-Episode-4.webp"
     },
     {
       "title": "Kundi Mat Khadkao Raja Episode 6",
       "duration": "20:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://webseriess.net/kundi-mat-khadkao-raja-episode-6/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/03/Kundi-Mat-Khadkao-Raja-Episode-6.webp"
     },
     {
       "title": "Chaashni Episode 5",
       "duration": "17:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://webseriess.net/chaashni-episode-5/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/03/Chaashni-Episode-5.webp"
     },
     {
       "title": "Chawl House 3 Episode 1",
       "duration": "22:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://webseriess.net/chawl-house-3-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/03/Chawl-House-3-Episode-1.webp"
     },
     {
       "title": "Chaashni Episode 4",
       "duration": "18:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://webseriess.net/chaashni-episode-4/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/03/Chaashni-Episode-4.webp"
     },
     {
       "title": "Kundi Mat Khadkao Raja Episode 3",
       "duration": "23:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://webseriess.net/kundi-mat-khadkao-raja-episode-3/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/03/Kundi-Mat-Khadkao-Raja-Episode-3.webp"
     },
     {
       "title": "Chidiya Episode 3",
       "duration": "23:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://webseriess.net/chidiya-episode-3/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/03/Chidiya-Episode-3.webp"
     },
     {
       "title": "Chidiya Episode 2",
       "duration": "23:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://webseriess.net/chidiya-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/03/Chidiya-Episode-2.webp"
     },
     {
       "title": "Chidiya Episode 6",
       "duration": "26:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://webseriess.net/chidiya-episode-6/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/03/Chidiya-Episode-6.webp"
     },
     {
       "title": "Chaashni Episode 7",
       "duration": "20:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://webseriess.net/chaashni-episode-7/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/03/Chaashni-Episode-7.webp"
     },
     {
       "title": "Kundi Mat Khadkao Raja Episode 5",
       "duration": "24:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://webseriess.net/kundi-mat-khadkao-raja-episode-5/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/03/Kundi-Mat-Khadkao-Raja-Episode-5.webp"
     },
     {
       "title": "Kundi Mat Khadkao Raja Episode 2",
       "duration": "21:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://webseriess.net/kundi-mat-khadkao-raja-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/03/Kundi-Mat-Khadkao-Raja-Episode-2.webp"
     },
     {
       "title": "Chaashni Episode 2",
       "duration": "20:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://webseriess.net/chaashni-episode-2/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/03/Chaashni-Episode-2.webp"
     },
     {
       "title": "Chaashni Episode 6",
       "duration": "19:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://webseriess.net/chaashni-episode-6/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/03/Chaashni-Episode-6.webp"
     },
     {
       "title": "Chidiya Episode 5",
       "duration": "21:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://webseriess.net/chidiya-episode-5/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/03/Chidiya-Episode-5.webp"
     },
     {
       "title": "Chidiya Episode 1",
       "duration": "25:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://webseriess.net/chidiya-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/03/Chidiya-Episode-1.webp"
     },
     {
       "title": "Kundi Mat Khadkao Raja Episode 4",
       "duration": "28:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://webseriess.net/kundi-mat-khadkao-raja-episode-4/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/03/Kundi-Mat-Khadkao-Raja-Episode-4.webp"
     },
     {
       "title": "Chaashni Episode 1",
       "duration": "26:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://webseriess.net/chaashni-episode-1/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/03/Chaashni-Episode-1.webp"
     },
     {
       "title": "Chaashni Episode 3",
       "duration": "27:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://webseriess.net/chaashni-episode-3/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/03/Chaashni-Episode-3.webp"
     },
     {
       "title": "Chidiya Episode 7",
       "duration": "25:00",
-      "upload_time": "6 Mo Ago",
+      "upload_time": "7 Mo Ago",
       "link": "https://webseriess.net/chidiya-episode-7/",
       "thumbnail": "https://webseriess.net/wp-content/uploads/2025/03/Chidiya-Episode-7.webp"
     },
