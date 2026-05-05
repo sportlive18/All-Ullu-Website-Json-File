@@ -1,1181 +1,1335 @@
 {
   "source": "https://zmasti.com/",
-  "created_at": "2026-05-04T01:59:35.163857",
-  "total": 2380,
+  "created_at": "2026-05-05T02:00:08.780675",
+  "total": 2402,
   "episodes": [
+    {
+      "title": "Dil Pe Bojh Episode 4",
+      "duration": "24:00",
+      "upload_time": "2 Hr Ago",
+      "link": "https://zmasti.com/dil-pe-bojh-episode-4/",
+      "thumbnail": "https://zmasti.com/wp-content/uploads/2025/09/Dil-Pe-Bojh-Episode-4.webp"
+    },
+    {
+      "title": "Rocky Episode 3",
+      "duration": "",
+      "upload_time": "3 Hr Ago",
+      "link": "https://zmasti.com/rocky-episode-3/",
+      "thumbnail": "https://zmasti.com/wp-content/uploads/2025/09/Rocky-Episode-3.webp"
+    },
+    {
+      "title": "Rocky Episode 2",
+      "duration": "",
+      "upload_time": "5 Hr Ago",
+      "link": "https://zmasti.com/rocky-episode-2/",
+      "thumbnail": "https://zmasti.com/wp-content/uploads/2025/09/Rocky-Episode-2.webp"
+    },
+    {
+      "title": "VideoBaaz Episode 2",
+      "duration": "20:00",
+      "upload_time": "5 Hr Ago",
+      "link": "https://zmasti.com/videobaaz-episode-2/",
+      "thumbnail": "https://zmasti.com/wp-content/uploads/2025/09/VideoBaaz-Episode-2.webp"
+    },
+    {
+      "title": "Dil Pe Bojh Episode 5",
+      "duration": "22:00",
+      "upload_time": "6 Hr Ago",
+      "link": "https://zmasti.com/dil-pe-bojh-episode-5/",
+      "thumbnail": "https://zmasti.com/wp-content/uploads/2025/09/Dil-Pe-Bojh-Episode-5.webp"
+    },
+    {
+      "title": "VideoBaaz Episode 4",
+      "duration": "18:00",
+      "upload_time": "6 Hr Ago",
+      "link": "https://zmasti.com/videobaaz-episode-4/",
+      "thumbnail": "https://zmasti.com/wp-content/uploads/2025/09/VideoBaaz-Episode-4.webp"
+    },
+    {
+      "title": "VideoBaaz Episode 3",
+      "duration": "17:00",
+      "upload_time": "7 Hr Ago",
+      "link": "https://zmasti.com/videobaaz-episode-3/",
+      "thumbnail": "https://zmasti.com/wp-content/uploads/2025/09/VideoBaaz-Episode-3.webp"
+    },
+    {
+      "title": "Ballu Rangeela Episode 2",
+      "duration": "21:00",
+      "upload_time": "8 Hr Ago",
+      "link": "https://zmasti.com/ballu-rangeela-episode-2/",
+      "thumbnail": "https://zmasti.com/wp-content/uploads/2025/09/Ballu-Rangeela-Episode-2.webp"
+    },
+    {
+      "title": "Madam Jee Episode 1",
+      "duration": "16:00",
+      "upload_time": "8 Hr Ago",
+      "link": "https://zmasti.com/madam-jee-episode-1/",
+      "thumbnail": "https://zmasti.com/wp-content/uploads/2025/09/Madam-Jee-Episode-1.webp"
+    },
+    {
+      "title": "Adla Badli Episode 3",
+      "duration": "",
+      "upload_time": "8 Hr Ago",
+      "link": "https://zmasti.com/adla-badli-episode-3/",
+      "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Adla-Badli-Episode-3.webp"
+    },
+    {
+      "title": "Makkhan Doodhwala Episode 5",
+      "duration": "20:00",
+      "upload_time": "8 Hr Ago",
+      "link": "https://zmasti.com/makkhan-doodhwala-episode-5/",
+      "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Makkhan-Doodhwala-Episode-5.webp"
+    },
+    {
+      "title": "Atithi In House Episode 1",
+      "duration": "16:00",
+      "upload_time": "9 Hr Ago",
+      "link": "https://zmasti.com/atithi-in-house-episode-1/",
+      "thumbnail": "https://zmasti.com/wp-content/uploads/2025/09/Atithi-In-House-Episode-1.webp"
+    },
+    {
+      "title": "Adla Badli Episode 5",
+      "duration": "",
+      "upload_time": "9 Hr Ago",
+      "link": "https://zmasti.com/adla-badli-episode-5/",
+      "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Adla-Badli-Episode-5.webp"
+    },
+    {
+      "title": "Atithi In House Episode 3",
+      "duration": "14:00",
+      "upload_time": "14 Hr Ago",
+      "link": "https://zmasti.com/atithi-in-house-episode-3/",
+      "thumbnail": "https://zmasti.com/wp-content/uploads/2025/09/Atithi-In-House-Episode-3.webp"
+    },
+    {
+      "title": "Makkhan Doodhwala Episode 8",
+      "duration": "21:00",
+      "upload_time": "17 Hr Ago",
+      "link": "https://zmasti.com/makkhan-doodhwala-episode-8/",
+      "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Makkhan-Doodhwala-Episode-8.webp"
+    },
+    {
+      "title": "Ballu Rangeela Episode 1",
+      "duration": "20:00",
+      "upload_time": "18 Hr Ago",
+      "link": "https://zmasti.com/ballu-rangeela-episode-1/",
+      "thumbnail": "https://zmasti.com/wp-content/uploads/2025/09/Ballu-Rangeela-Episode-1.webp"
+    },
+    {
+      "title": "Adla Badli Episode 2",
+      "duration": "",
+      "upload_time": "18 Hr Ago",
+      "link": "https://zmasti.com/adla-badli-episode-2/",
+      "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Adla-Badli-Episode-2.webp"
+    },
+    {
+      "title": "Makkhan Doodhwala Episode 4",
+      "duration": "19:00",
+      "upload_time": "19 Hr Ago",
+      "link": "https://zmasti.com/makkhan-doodhwala-episode-4/",
+      "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Makkhan-Doodhwala-Episode-4.webp"
+    },
+    {
+      "title": "Makkhan Doodhwala Episode 3",
+      "duration": "24:00",
+      "upload_time": "20 Hr Ago",
+      "link": "https://zmasti.com/makkhan-doodhwala-episode-3/",
+      "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Makkhan-Doodhwala-Episode-3.webp"
+    },
+    {
+      "title": "28 32 36 Episode 1",
+      "duration": "20:00",
+      "upload_time": "20 Hr Ago",
+      "link": "https://zmasti.com/28-32-36-episode-1/",
+      "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/28-32-36-Episode-1.webp"
+    },
+    {
+      "title": "Adla Badli Episode 4",
+      "duration": "",
+      "upload_time": "20 Hr Ago",
+      "link": "https://zmasti.com/adla-badli-episode-4/",
+      "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Adla-Badli-Episode-4.webp"
+    },
+    {
+      "title": "Atithi In House Episode 2",
+      "duration": "15:00",
+      "upload_time": "22 Hr Ago",
+      "link": "https://zmasti.com/atithi-in-house-episode-2/",
+      "thumbnail": "https://zmasti.com/wp-content/uploads/2025/09/Atithi-In-House-Episode-2.webp"
+    },
     {
       "title": "Makkhan Doodhwala Episode 6",
       "duration": "20:00",
-      "upload_time": "2 Hr Ago",
+      "upload_time": "1 Dy Ago",
       "link": "https://zmasti.com/makkhan-doodhwala-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Makkhan-Doodhwala-Episode-6.webp"
     },
     {
       "title": "Makkhan Doodhwala Episode 7",
       "duration": "21:00",
-      "upload_time": "2 Hr Ago",
+      "upload_time": "1 Dy Ago",
       "link": "https://zmasti.com/makkhan-doodhwala-episode-7/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Makkhan-Doodhwala-Episode-7.webp"
     },
     {
       "title": "Makkhan Doodhwala Episode 2",
       "duration": "25:00",
-      "upload_time": "3 Hr Ago",
+      "upload_time": "1 Dy Ago",
       "link": "https://zmasti.com/makkhan-doodhwala-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Makkhan-Doodhwala-Episode-2.webp"
     },
     {
       "title": "Atithi In House Episode 4",
       "duration": "15:00",
-      "upload_time": "4 Hr Ago",
+      "upload_time": "1 Dy Ago",
       "link": "https://zmasti.com/atithi-in-house-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/09/Atithi-In-House-Episode-4.webp"
     },
     {
       "title": "28 32 36 Episode 3",
       "duration": "22:00",
-      "upload_time": "4 Hr Ago",
+      "upload_time": "1 Dy Ago",
       "link": "https://zmasti.com/28-32-36-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/28-32-36-Episode-3.webp"
     },
     {
       "title": "Makkhan Doodhwala Episode 1",
       "duration": "23:00",
-      "upload_time": "5 Hr Ago",
+      "upload_time": "1 Dy Ago",
       "link": "https://zmasti.com/makkhan-doodhwala-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Makkhan-Doodhwala-Episode-1.webp"
     },
     {
       "title": "Madam Jee Episode 2",
       "duration": "17:00",
-      "upload_time": "6 Hr Ago",
+      "upload_time": "1 Dy Ago",
       "link": "https://zmasti.com/madam-jee-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/09/Madam-Jee-Episode-2.webp"
     },
     {
       "title": "Adla Badli Episode 1",
       "duration": "",
-      "upload_time": "7 Hr Ago",
+      "upload_time": "1 Dy Ago",
       "link": "https://zmasti.com/adla-badli-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Adla-Badli-Episode-1.webp"
     },
     {
       "title": "Yamma Yamma Episode 3",
       "duration": "19:00",
-      "upload_time": "10 Hr Ago",
+      "upload_time": "1 Dy Ago",
       "link": "https://zmasti.com/yamma-yamma-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Yamma-Yamma-Episode-3.webp"
     },
     {
       "title": "Chhu Le Zara Episode 3",
       "duration": "25:00",
-      "upload_time": "11 Hr Ago",
+      "upload_time": "1 Dy Ago",
       "link": "https://zmasti.com/chhu-le-zara-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Chhu-Le-Zara-Episode-3.webp"
     },
     {
       "title": "Yes Mam Episode 4",
       "duration": "24:00",
-      "upload_time": "11 Hr Ago",
+      "upload_time": "1 Dy Ago",
       "link": "https://zmasti.com/yes-mam-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Yes-Mam-Episode-4.webp"
     },
     {
       "title": "B Se Blause Episode 1",
       "duration": "20:00",
-      "upload_time": "12 Hr Ago",
+      "upload_time": "1 Dy Ago",
       "link": "https://zmasti.com/b-se-blause-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/B-Se-Blause-Episode-1.webp"
     },
     {
       "title": "Chhu Le Zara Episode 5",
       "duration": "17:00",
-      "upload_time": "12 Hr Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://zmasti.com/chhu-le-zara-episode-5/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Chhu-Le-Zara-Episode-5.webp"
     },
     {
       "title": "Yes Mam Episode 1",
       "duration": "36:00",
-      "upload_time": "13 Hr Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://zmasti.com/yes-mam-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Yes-Mam-Episode-1.webp"
     },
     {
       "title": "Yes Mam Episode 2",
       "duration": "35:00",
-      "upload_time": "13 Hr Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://zmasti.com/yes-mam-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Yes-Mam-Episode-2.webp"
     },
     {
       "title": "Yamma Yamma Episode 5",
       "duration": "26:00",
-      "upload_time": "15 Hr Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://zmasti.com/yamma-yamma-episode-5/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Yamma-Yamma-Episode-5.webp"
     },
     {
       "title": "Mol Bhaav Episode 3",
       "duration": "23:00",
-      "upload_time": "16 Hr Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://zmasti.com/mol-bhaav-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Mol-Bhaav-Episode-3.webp"
     },
     {
       "title": "Yamma Yamma Episode 7",
       "duration": "23:00",
-      "upload_time": "18 Hr Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://zmasti.com/yamma-yamma-episode-7/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Yamma-Yamma-Episode-7.webp"
     },
     {
       "title": "Chhu Le Zara Episode 1",
       "duration": "26:00",
-      "upload_time": "21 Hr Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://zmasti.com/chhu-le-zara-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Chhu-Le-Zara-Episode-1.webp"
     },
     {
       "title": "Yes Mam Episode 3",
       "duration": "37:00",
-      "upload_time": "23 Hr Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://zmasti.com/yes-mam-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Yes-Mam-Episode-3.webp"
     },
     {
       "title": "Chhu Le Zara Episode 7",
       "duration": "28:00",
-      "upload_time": "23 Hr Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://zmasti.com/chhu-le-zara-episode-7/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Chhu-Le-Zara-Episode-7.webp"
     },
     {
       "title": "Chhu Le Zara Episode 2",
       "duration": "25:00",
-      "upload_time": "1 Dy Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://zmasti.com/chhu-le-zara-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Chhu-Le-Zara-Episode-2.webp"
     },
     {
       "title": "B Se Blause Episode 2",
       "duration": "21:00",
-      "upload_time": "1 Dy Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://zmasti.com/b-se-blause-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/B-Se-Blause-Episode-2.webp"
     },
     {
       "title": "Yamma Yamma Episode 8",
       "duration": "25:00",
-      "upload_time": "1 Dy Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://zmasti.com/yamma-yamma-episode-8/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Yamma-Yamma-Episode-8.webp"
     },
     {
       "title": "Chhu Le Zara Episode 6",
       "duration": "18:00",
-      "upload_time": "1 Dy Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://zmasti.com/chhu-le-zara-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Chhu-Le-Zara-Episode-6.webp"
     },
     {
       "title": "Yamma Yamma Episode 6",
       "duration": "26:00",
-      "upload_time": "1 Dy Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://zmasti.com/yamma-yamma-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Yamma-Yamma-Episode-6.webp"
     },
     {
       "title": "Chhu Le Zara Episode 4",
       "duration": "25:00",
-      "upload_time": "1 Dy Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://zmasti.com/chhu-le-zara-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Chhu-Le-Zara-Episode-4.webp"
     },
     {
       "title": "28 32 36 Episode 2",
       "duration": "28:00",
-      "upload_time": "1 Dy Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://zmasti.com/28-32-36-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/28-32-36-Episode-2.webp"
     },
     {
       "title": "B Se Blause Episode 3",
       "duration": "20:00",
-      "upload_time": "1 Dy Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://zmasti.com/b-se-blause-episode-3-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/28-32-36-Episode-1.webp"
     },
     {
       "title": "Yamma Yamma Episode 4",
       "duration": "26:00",
-      "upload_time": "1 Dy Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://zmasti.com/yamma-yamma-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Yamma-Yamma-Episode-4.webp"
     },
     {
       "title": "Mol Bhaav Episode 1",
       "duration": "24:00",
-      "upload_time": "1 Dy Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://zmasti.com/mol-bhaav-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Mol-Bhaav-Episode-1.webp"
     },
     {
       "title": "B Se Blause Episode 3",
       "duration": "21:00",
-      "upload_time": "1 Dy Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://zmasti.com/b-se-blause-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/B-Se-Blause-Episode-3.webp"
     },
     {
       "title": "Mol Bhaav Episode 2",
       "duration": "21:00",
-      "upload_time": "1 Dy Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://zmasti.com/mol-bhaav-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Mol-Bhaav-Episode-2.webp"
     },
     {
       "title": "Tu Dekh Meri Photo Episode 4",
       "duration": "",
-      "upload_time": "1 Dy Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://zmasti.com/tu-dekh-meri-photo-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/07/Tu-Dekh-Meri-Photo-Episode-4.webp"
     },
     {
       "title": "Fantasy Episode 1",
       "duration": "",
-      "upload_time": "1 Dy Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://zmasti.com/fantasy-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/06/Fantasy-Episode-1.webp"
     },
     {
       "title": "Lallu Ki Mami Episode 2",
       "duration": "",
-      "upload_time": "1 Dy Ago",
+      "upload_time": "2 Dy Ago",
       "link": "https://zmasti.com/lallu-ki-mami-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/07/Lallu-Ki-Mami-Episode-2.webp"
     },
     {
       "title": "Lallu Ki Mami Episode 3",
       "duration": "",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://zmasti.com/lallu-ki-mami-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/07/Lallu-Ki-Mami-Episode-3.webp"
     },
     {
       "title": "Yamma Yamma Episode 2",
       "duration": "28:00",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://zmasti.com/yamma-yamma-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Yamma-Yamma-Episode-2.webp"
     },
     {
       "title": "Tu Dekh Meri Photo Episode 6",
       "duration": "",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://zmasti.com/tu-dekh-meri-photo-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/07/Tu-Dekh-Meri-Photo-Episode-6.webp"
     },
     {
       "title": "Goa Trip Episode 1",
       "duration": "",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://zmasti.com/goa-trip-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/06/Goa-Trip-Episode-1.webp"
     },
     {
       "title": "Tu Dekh Meri Photo Episode 5",
       "duration": "",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://zmasti.com/tu-dekh-meri-photo-episode-5-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/07/Tu-Dekh-Meri-Photo-Episode-6.webp"
     },
     {
       "title": "Happy Ending Episode 2",
       "duration": "23:00",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://zmasti.com/happy-ending-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/07/Happy-Ending-Episode-2-1.webp"
     },
     {
       "title": "Tu Dekh Meri Photo Episode 3",
       "duration": "",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://zmasti.com/tu-dekh-meri-photo-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/07/Tu-Dekh-Meri-Photo-Episode-2.webp"
     },
     {
       "title": "Tu Dekh Meri Photo Episode 5",
       "duration": "",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://zmasti.com/tu-dekh-meri-photo-episode-5/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/07/Tu-Dekh-Meri-Photo-Episode-5.webp"
     },
     {
       "title": "Tu Dekh Meri Photo Episode 2",
       "duration": "",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://zmasti.com/tu-dekh-meri-photo-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/07/Tu-Dekh-Meri-Photo-Episode-2.webp"
     },
     {
       "title": "Tu Dekh Meri Photo Episode 1",
       "duration": "",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://zmasti.com/tu-dekh-meri-photo-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/07/Tu-Dekh-Meri-Photo-Episode-1.webp"
     },
     {
       "title": "Yamma Yamma Episode 1",
       "duration": "26:00",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://zmasti.com/yamma-yamma-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/08/Yamma-Yamma-Episode-1.webp"
     },
     {
       "title": "Lallu Ki Mami Episode 1",
       "duration": "",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://zmasti.com/lallu-ki-mami-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/07/Lallu-Ki-Mami-Episode-1.webp"
     },
     {
       "title": "Fantasy Episode 2",
       "duration": "",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://zmasti.com/fantasy-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/06/Fantasy-Episode-2.webp"
     },
     {
       "title": "Tu Dekh Meri Photo Episode 7",
       "duration": "",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://zmasti.com/tu-dekh-meri-photo-episode-7/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/07/Tu-Dekh-Meri-Photo-Episode-7.webp"
     },
     {
       "title": "Goa Trip Episode 2",
       "duration": "",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://zmasti.com/goa-trip-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/06/Goa-Trip-Episode-2.webp"
     },
     {
       "title": "Happy Ending Episode 3",
       "duration": "26:00",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://zmasti.com/happy-ending-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/07/Happy-Ending-Episode-3-1.webp"
     },
     {
       "title": "Happy Ending Episode 4",
       "duration": "20:00",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://zmasti.com/happy-ending-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/07/Happy-Ending-Episode-4-1.webp"
     },
     {
       "title": "Happy Ending Episode 1",
       "duration": "19:00",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://zmasti.com/happy-ending-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/07/Happy-Ending-Episode-1-1.webp"
     },
     {
       "title": "Dulhan Episode 4",
       "duration": "",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://zmasti.com/dulhan-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/06/Dulhan-Episode-4.webp"
     },
     {
       "title": "Woodpecker Episode 2",
       "duration": "23:00",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://zmasti.com/woodpecker-episode-2-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Woodpecker-Episode-5.webp"
     },
     {
       "title": "Yeh Kaisa Rishta Episode 4",
       "duration": "16:00",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://zmasti.com/yeh-kaisa-rishta-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Yeh-Kaisa-Rishta-Episode-4.webp"
     },
     {
       "title": "Watchman Episode 5",
       "duration": "26:00",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://zmasti.com/watchman-episode-5-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Watchman-Episode-8.webp"
     },
     {
       "title": "Woodpecker Episode 4",
       "duration": "20:00",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://zmasti.com/woodpecker-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Woodpecker-Episode-4.webp"
     },
     {
       "title": "Yeh Kaisa Rishta Episode 3",
       "duration": "19:00",
-      "upload_time": "2 Dy Ago",
+      "upload_time": "3 Dy Ago",
       "link": "https://zmasti.com/yeh-kaisa-rishta-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Yeh-Kaisa-Rishta-Episode-3.webp"
     },
     {
       "title": "Woodpecker Episode 8",
       "duration": "17:00",
-      "upload_time": "3 Dy Ago",
+      "upload_time": "4 Dy Ago",
       "link": "https://zmasti.com/woodpecker-episode-8/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Woodpecker-Episode-8.webp"
     },
     {
       "title": "Woodpecker Episode 7",
       "duration": "19:00",
-      "upload_time": "3 Dy Ago",
+      "upload_time": "4 Dy Ago",
       "link": "https://zmasti.com/woodpecker-episode-7/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Woodpecker-Episode-7.webp"
     },
     {
       "title": "Woodpecker Episode 2",
       "duration": "17:00",
-      "upload_time": "3 Dy Ago",
+      "upload_time": "4 Dy Ago",
       "link": "https://zmasti.com/woodpecker-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Woodpecker-Episode-2.webp"
     },
     {
       "title": "Yeh Kaisa Rishta Episode 2",
       "duration": "17:00",
-      "upload_time": "3 Dy Ago",
+      "upload_time": "4 Dy Ago",
       "link": "https://zmasti.com/yeh-kaisa-rishta-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Yeh-Kaisa-Rishta-Episode-2.webp"
     },
     {
       "title": "Zaroorat 2 Episode 1",
       "duration": "19:00",
-      "upload_time": "3 Dy Ago",
+      "upload_time": "4 Dy Ago",
       "link": "https://zmasti.com/zaroorat-2-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Zaroorat-2-Episode-1.webp"
     },
     {
       "title": "Zaroorat Episode 1",
       "duration": "20:00",
-      "upload_time": "3 Dy Ago",
+      "upload_time": "4 Dy Ago",
       "link": "https://zmasti.com/zaroorat-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Zaroorat-Episode-1.webp"
     },
     {
       "title": "Yeh Kaisa Rishta Episode 1",
       "duration": "16:00",
-      "upload_time": "3 Dy Ago",
+      "upload_time": "4 Dy Ago",
       "link": "https://zmasti.com/yeh-kaisa-rishta-episode-1-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Yeh-Kaisa-Rishta-Episode-4.webp"
     },
     {
       "title": "Yeh Kaisa Rishta Episode 1",
       "duration": "18:00",
-      "upload_time": "3 Dy Ago",
+      "upload_time": "4 Dy Ago",
       "link": "https://zmasti.com/yeh-kaisa-rishta-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Yeh-Kaisa-Rishta-Episode-1.webp"
     },
     {
       "title": "Woodpecker Episode 6",
       "duration": "20:00",
-      "upload_time": "3 Dy Ago",
+      "upload_time": "4 Dy Ago",
       "link": "https://zmasti.com/woodpecker-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Woodpecker-Episode-6.webp"
     },
     {
       "title": "Watchman Episode 8",
       "duration": "26:00",
-      "upload_time": "3 Dy Ago",
+      "upload_time": "4 Dy Ago",
       "link": "https://zmasti.com/watchman-episode-8/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Watchman-Episode-8.webp"
     },
     {
       "title": "Zaroorat Episode 2",
       "duration": "23:00",
-      "upload_time": "3 Dy Ago",
+      "upload_time": "4 Dy Ago",
       "link": "https://zmasti.com/zaroorat-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Zaroorat-Episode-2.webp"
     },
     {
       "title": "Zaroorat 2 Episode 2",
       "duration": "21:00",
-      "upload_time": "3 Dy Ago",
+      "upload_time": "4 Dy Ago",
       "link": "https://zmasti.com/zaroorat-2-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Zaroorat-2-Episode-2.webp"
     },
     {
       "title": "Woodpecker Episode 1",
       "duration": "11:00",
-      "upload_time": "3 Dy Ago",
+      "upload_time": "4 Dy Ago",
       "link": "https://zmasti.com/woodpecker-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Woodpecker-Episode-1.webp"
     },
     {
       "title": "Zaroorat 2 Episode 3",
       "duration": "18:00",
-      "upload_time": "3 Dy Ago",
+      "upload_time": "4 Dy Ago",
       "link": "https://zmasti.com/zaroorat-2-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Zaroorat-2-Episode-3.webp"
     },
     {
       "title": "Woodpecker Episode 5",
       "duration": "23:00",
-      "upload_time": "3 Dy Ago",
+      "upload_time": "4 Dy Ago",
       "link": "https://zmasti.com/woodpecker-episode-5/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Woodpecker-Episode-5.webp"
     },
     {
       "title": "Watchman Episode 9",
       "duration": "31:00",
-      "upload_time": "3 Dy Ago",
+      "upload_time": "4 Dy Ago",
       "link": "https://zmasti.com/watchman-episode-9/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Watchman-Episode-9.webp"
     },
     {
       "title": "Woodpecker Episode 3",
       "duration": "21:00",
-      "upload_time": "3 Dy Ago",
+      "upload_time": "4 Dy Ago",
       "link": "https://zmasti.com/woodpecker-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Woodpecker-Episode-3.webp"
     },
     {
       "title": "Watchman Episode 3",
       "duration": "22:00",
-      "upload_time": "3 Dy Ago",
+      "upload_time": "4 Dy Ago",
       "link": "https://zmasti.com/watchman-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Watchman-Episode-3.webp"
     },
     {
       "title": "Walkman Episode 9",
       "duration": "17:00",
-      "upload_time": "3 Dy Ago",
+      "upload_time": "4 Dy Ago",
       "link": "https://zmasti.com/walkman-episode-9-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Watchman-Episode-2.webp"
     },
     {
       "title": "Walkman Episode 5",
       "duration": "27:00",
-      "upload_time": "3 Dy Ago",
+      "upload_time": "4 Dy Ago",
       "link": "https://zmasti.com/walkman-episode-5/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Walkman-Episode-5.webp"
     },
     {
       "title": "Watchman Episode 2",
       "duration": "17:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://zmasti.com/watchman-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Watchman-Episode-2.webp"
     },
     {
       "title": "Watchman Episode 6",
       "duration": "28:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://zmasti.com/watchman-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Watchman-Episode-6.webp"
     },
     {
       "title": "Wafa Episode 3",
       "duration": "29:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://zmasti.com/wafa-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Wafa-Episode-3.webp"
     },
     {
       "title": "Walkman Episode 3",
       "duration": "26:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://zmasti.com/walkman-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Walkman-Episode-3.webp"
     },
     {
       "title": "Walkman Episode 1",
       "duration": "28:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://zmasti.com/walkman-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Walkman-Episode-1.webp"
     },
     {
       "title": "Wafa Episode 4",
       "duration": "28:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://zmasti.com/wafa-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Wafa-Episode-4-1.webp"
     },
     {
       "title": "Wafa Episode 6",
       "duration": "28:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://zmasti.com/wafa-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Wafa-Episode-6.webp"
     },
     {
       "title": "Wafa Episode 3",
       "duration": "29:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://zmasti.com/wafa-episode-3-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Wafa-Episode-3.webp"
     },
     {
       "title": "Walkman Episode 6",
       "duration": "23:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://zmasti.com/walkman-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Walkman-Episode-6.webp"
     },
     {
       "title": "Watchman Episode 1",
       "duration": "18:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://zmasti.com/watchman-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Watchman-Episode-1.webp"
     },
     {
       "title": "Walkman Episode 9",
       "duration": "17:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://zmasti.com/walkman-episode-9/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Walkman-Episode-9.webp"
     },
     {
       "title": "Walkman Episode 2",
       "duration": "28:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://zmasti.com/walkman-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Walkman-Episode-2.webp"
     },
     {
       "title": "Wafa Episode 7",
       "duration": "30:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://zmasti.com/wafa-episode-7/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Wafa-Episode-7.webp"
     },
     {
       "title": "Watchman Episode 4",
       "duration": "29:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://zmasti.com/watchman-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Watchman-Episode-4.webp"
     },
     {
       "title": "Walkman Episode 8",
       "duration": "19:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://zmasti.com/walkman-episode-8/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Walkman-Episode-8.webp"
     },
     {
       "title": "Watchman Episode 7",
       "duration": "22:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://zmasti.com/watchman-episode-7/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Watchman-Episode-7.webp"
     },
     {
       "title": "Wafa Episode 4",
       "duration": "28:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://zmasti.com/wafa-episode-4-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Wafa-Episode-4.webp"
     },
     {
       "title": "Walkman Episode 4",
       "duration": "27:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://zmasti.com/walkman-episode-4-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Walkman-Episode-5.webp"
     },
     {
       "title": "Walkman Episode 4",
       "duration": "28:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://zmasti.com/walkman-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Walkman-Episode-4.webp"
     },
     {
       "title": "Wafa Episode 5",
       "duration": "30:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://zmasti.com/wafa-episode-5/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Wafa-Episode-5.webp"
     },
     {
       "title": "Watchman Episode 5",
       "duration": "30:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://zmasti.com/watchman-episode-5/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Watchman-Episode-5.webp"
     },
     {
       "title": "Walkman Episode 7",
       "duration": "27:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://zmasti.com/walkman-episode-7/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Walkman-Episode-7.webp"
     },
     {
       "title": "Virgin Suspect Episode 2",
       "duration": "18:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://zmasti.com/virgin-suspect-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Virgin-Suspect-Episode-2.webp"
     },
     {
       "title": "Virgin Suspect Episode 3",
       "duration": "20:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://zmasti.com/virgin-suspect-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Virgin-Suspect-Episode-3.webp"
     },
     {
       "title": "Virgin Suspect Episode 1",
       "duration": "16:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://zmasti.com/virgin-suspect-episode-1-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Virgin-Suspect-Episode-1.webp"
     },
     {
       "title": "Virgin Suspect Episode 1",
       "duration": "16:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://zmasti.com/virgin-suspect-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Virgin-Suspect-Episode-1-1.webp"
     },
     {
       "title": "Tota Episode 4",
       "duration": "26:00",
-      "upload_time": "4 Dy Ago",
+      "upload_time": "5 Dy Ago",
       "link": "https://zmasti.com/tota-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Tota-Episode-4.webp"
     },
     {
       "title": "Virgin Boys Episode 7",
       "duration": "16:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://zmasti.com/virgin-boys-episode-7/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Virgin-Boys-Episode-7.webp"
     },
     {
       "title": "Virgin Boys Episode 5",
       "duration": "19:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://zmasti.com/virgin-boys-episode-5/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Virgin-Boys-Episode-4.webp"
     },
     {
       "title": "Virgin Boys Episode 8",
       "duration": "16:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://zmasti.com/virgin-boys-episode-8/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Virgin-Boys-Episode-8.webp"
     },
     {
       "title": "Virgin Suspect Episode 7",
       "duration": "17:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://zmasti.com/virgin-suspect-episode-7/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Virgin-Suspect-Episode-7.webp"
     },
     {
       "title": "Virgin Boys Episode 4",
       "duration": "19:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://zmasti.com/virgin-boys-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Virgin-Boys-Episode-4.webp"
     },
     {
       "title": "Tota Episode 6",
       "duration": "20:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://zmasti.com/tota-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Tota-Episode-6.webp"
     },
     {
       "title": "Wafa Episode 1",
       "duration": "32:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://zmasti.com/wafa-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Wafa-Episode-1.webp"
     },
     {
       "title": "Tota Episode 3",
       "duration": "23:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://zmasti.com/tota-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Tota-Episode-3.webp"
     },
     {
       "title": "Virgin Boys Episode 2",
       "duration": "17:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://zmasti.com/virgin-boys-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Virgin-Boys-Episode-2.webp"
     },
     {
       "title": "Virgin Suspect Episode 4",
       "duration": "18:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://zmasti.com/virgin-suspect-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Virgin-Suspect-Episode-4.webp"
     },
     {
       "title": "Wafa Episode 2",
       "duration": "25:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://zmasti.com/wafa-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Wafa-Episode-2.webp"
     },
     {
       "title": "Virgin Boys Episode 1",
       "duration": "18:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://zmasti.com/virgin-boys-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Virgin-Boys-Episode-1.webp"
     },
     {
       "title": "Virgin Boys Episode 6",
       "duration": "15:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://zmasti.com/virgin-boys-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Virgin-Boys-Episode-6.webp"
     },
     {
       "title": "Virgin Boys Episode 3",
       "duration": "18:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://zmasti.com/virgin-boys-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Virgin-Boys-Episode-3.webp"
     },
     {
       "title": "Tota Episode 5",
       "duration": "20:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://zmasti.com/tota-episode-5/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Tota-Episode-5.webp"
     },
     {
       "title": "Virgin Suspect Episode 5",
       "duration": "19:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://zmasti.com/virgin-suspect-episode-5/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Virgin-Suspect-Episode-5.webp"
     },
     {
       "title": "Virgin Suspect Episode 6",
       "duration": "15:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://zmasti.com/virgin-suspect-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Virgin-Suspect-Episode-6.webp"
     },
     {
       "title": "Virgin Suspect Episode 2",
       "duration": "20:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://zmasti.com/virgin-suspect-episode-2-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Virgin-Suspect-Episode-3.webp"
     },
     {
       "title": "Tota Episode 1",
       "duration": "17:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://zmasti.com/tota-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Virgin-Boys-Episode-2.webp"
     },
     {
       "title": "The Bull Of Dalal Street Episode 6",
       "duration": "20:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://zmasti.com/the-bull-of-dalal-street-episode-6-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/The-Last-Show-Episode-3.webp"
     },
     {
       "title": "Titliyaan Episode 2",
       "duration": "22:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://zmasti.com/titliyaan-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Titliyaan-Episode-2.webp"
     },
     {
       "title": "Tohfa Episode 1",
       "duration": "17:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://zmasti.com/tohfa-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Tohfa-Episode-1.webp"
     },
     {
       "title": "Tohfa Episode 6",
       "duration": "21:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://zmasti.com/tohfa-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Tohfa-Episode-6.webp"
     },
     {
       "title": "The Last Show Episode 5",
       "duration": "18:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://zmasti.com/the-last-show-episode-5/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/The-Last-Show-Episode-5.webp"
     },
     {
       "title": "Tohfa Episode 4",
       "duration": "22:00",
-      "upload_time": "5 Dy Ago",
+      "upload_time": "6 Dy Ago",
       "link": "https://zmasti.com/tohfa-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Tohfa-Episode-4.webp"
     },
     {
       "title": "The Last Show Episode 6",
       "duration": "30:00",
-      "upload_time": "6 Dy Ago",
+      "upload_time": "7 Dy Ago",
       "link": "https://zmasti.com/the-last-show-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/The-Last-Show-Episode-6.webp"
     },
     {
       "title": "Tohfa Episode 7",
       "duration": "28:00",
-      "upload_time": "6 Dy Ago",
+      "upload_time": "7 Dy Ago",
       "link": "https://zmasti.com/tohfa-episode-7/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Tohfa-Episode-7.webp"
     },
     {
       "title": "Titliyaan Episode 5",
       "duration": "24:00",
-      "upload_time": "6 Dy Ago",
+      "upload_time": "7 Dy Ago",
       "link": "https://zmasti.com/titliyaan-episode-5/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Titliyaan-Episode-5.webp"
     },
     {
       "title": "Titliyaan Episode 4",
       "duration": "24:00",
-      "upload_time": "6 Dy Ago",
+      "upload_time": "7 Dy Ago",
       "link": "https://zmasti.com/titliyaan-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Titliyaan-Episode-4.webp"
     },
     {
       "title": "The Last Show Episode 4",
       "duration": "19:00",
-      "upload_time": "6 Dy Ago",
+      "upload_time": "7 Dy Ago",
       "link": "https://zmasti.com/the-last-show-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/The-Last-Show-Episode-4.webp"
     },
     {
       "title": "Tota Episode 2",
       "duration": "25:00",
-      "upload_time": "6 Dy Ago",
+      "upload_time": "7 Dy Ago",
       "link": "https://zmasti.com/tota-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Tota-Episode-1.webp"
     },
     {
       "title": "Tohfa Episode 3",
       "duration": "21:00",
-      "upload_time": "6 Dy Ago",
+      "upload_time": "7 Dy Ago",
       "link": "https://zmasti.com/tohfa-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Tohfa-Episode-3.webp"
     },
     {
       "title": "The Bull Of Dalal Street Episode 5",
       "duration": "18:00",
-      "upload_time": "6 Dy Ago",
+      "upload_time": "7 Dy Ago",
       "link": "https://zmasti.com/the-bull-of-dalal-street-episode-5/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/The-Bull-Of-Dalal-Street-Episode-5.webp"
     },
     {
       "title": "The Bull Of Dalal Street Episode 8",
       "duration": "21:00",
-      "upload_time": "6 Dy Ago",
+      "upload_time": "7 Dy Ago",
       "link": "https://zmasti.com/the-bull-of-dalal-street-episode-8/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/The-Bull-Of-Dalal-Street-Episode-8.webp"
     },
     {
       "title": "The Last Show Episode 1",
       "duration": "28:00",
-      "upload_time": "6 Dy Ago",
+      "upload_time": "7 Dy Ago",
       "link": "https://zmasti.com/the-last-show-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/The-Last-Show-Episode-1.webp"
     },
     {
       "title": "Titliyaan Episode 3",
       "duration": "24:00",
-      "upload_time": "6 Dy Ago",
+      "upload_time": "7 Dy Ago",
       "link": "https://zmasti.com/titliyaan-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Titliyaan-Episode-3.webp"
     },
     {
       "title": "The Bull Of Dalal Street Episode 6",
       "duration": "27:00",
-      "upload_time": "6 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://zmasti.com/the-bull-of-dalal-street-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/The-Bull-Of-Dalal-Street-Episode-6.webp"
     },
     {
       "title": "Titliyaan Episode 1",
       "duration": "21:00",
-      "upload_time": "6 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://zmasti.com/titliyaan-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Titliyaan-Episode-1.webp"
     },
     {
       "title": "Tohfa Episode 2",
       "duration": "21:00",
-      "upload_time": "6 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://zmasti.com/tohfa-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Tohfa-Episode-2.webp"
     },
     {
       "title": "The Last Show Episode 2",
       "duration": "19:00",
-      "upload_time": "6 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://zmasti.com/the-last-show-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/The-Last-Show-Episode-2.webp"
     },
     {
       "title": "The Last Show Episode 3",
       "duration": "20:00",
-      "upload_time": "6 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://zmasti.com/the-last-show-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/The-Last-Show-Episode-3.webp"
     },
     {
       "title": "The Bull Of Dalal Street Episode 4",
       "duration": "27:00",
-      "upload_time": "6 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://zmasti.com/the-bull-of-dalal-street-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/The-Bull-Of-Dalal-Street-Episode-4.webp"
     },
     {
       "title": "Tohfa Episode 5",
       "duration": "26:00",
-      "upload_time": "6 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://zmasti.com/tohfa-episode-5/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Tohfa-Episode-5.webp"
     },
     {
       "title": "The Bull Of Dalal Street Episode 10",
       "duration": "16:00",
-      "upload_time": "6 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://zmasti.com/the-bull-of-dalal-street-episode-10/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/The-Bull-Of-Dalal-Street-Episode-10.webp"
     },
     {
       "title": "The Bucket List Episode 2",
       "duration": "22:00",
-      "upload_time": "6 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://zmasti.com/the-bucket-list-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/The-Bucket-List-Episode-2.webp"
     },
     {
       "title": "Tere Jaisa Yaar Kaha Episode 6",
       "duration": "28:00",
-      "upload_time": "6 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://zmasti.com/tere-jaisa-yaar-kaha-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Tere-Jaisa-Yaar-Kaha-Episode-6.webp"
     },
     {
       "title": "Tere Jaisa Yaar Kaha Episode 7",
       "duration": "24:00",
-      "upload_time": "6 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://zmasti.com/tere-jaisa-yaar-kaha-episode-7/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Tere-Jaisa-Yaar-Kaha-Episode-7.webp"
     },
     {
       "title": "Tere Jaisa Yaar Kaha Episode 4",
       "duration": "27:00",
-      "upload_time": "6 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://zmasti.com/tere-jaisa-yaar-kaha-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Tere-Jaisa-Yaar-Kaha-Episode-4.webp"
     },
     {
       "title": "The Bucket List Episode 9",
       "duration": "23:00",
-      "upload_time": "7 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://zmasti.com/the-bucket-list-episode-9/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/The-Bucket-List-Episode-9.webp"
     },
     {
       "title": "Tere Jaisa Yaar Kaha Episode 5",
       "duration": "22:00",
-      "upload_time": "7 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://zmasti.com/tere-jaisa-yaar-kaha-episode-5-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/The-Bucket-List-Episode-2.webp"
     },
     {
       "title": "The Bucket List Episode 4",
       "duration": "21:00",
-      "upload_time": "7 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://zmasti.com/the-bucket-list-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/The-Bucket-List-Episode-4.webp"
     },
     {
       "title": "The Bucket List Episode 1",
       "duration": "20:00",
-      "upload_time": "7 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://zmasti.com/the-bucket-list-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/The-Bucket-List-Episode-1.webp"
     },
     {
       "title": "The Bucket List Episode 7",
       "duration": "22:00",
-      "upload_time": "7 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://zmasti.com/the-bucket-list-episode-7/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/The-Bucket-List-Episode-7.webp"
     },
     {
       "title": "The Bull Of Dalal Street Episode 1",
       "duration": "26:00",
-      "upload_time": "7 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://zmasti.com/the-bull-of-dalal-street-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/The-Bull-Of-Dalal-Street-Episode-12.webp"
     },
     {
       "title": "The Bucket List Episode 6",
       "duration": "27:00",
-      "upload_time": "7 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://zmasti.com/the-bucket-list-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/The-Bucket-List-Episode-6.webp"
     },
     {
       "title": "The Bull Of Dalal Street Episode 11",
       "duration": "25:00",
-      "upload_time": "7 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://zmasti.com/the-bull-of-dalal-street-episode-11/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/The-Bull-Of-Dalal-Street-Episode-11.webp"
     },
     {
       "title": "Tere Jaisa Yaar Kaha Episode 2",
       "duration": "16:00",
-      "upload_time": "7 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://zmasti.com/tere-jaisa-yaar-kaha-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Tere-Jaisa-Yaar-Kaha-Episode-1.webp"
     },
     {
       "title": "Tere Jaisa Yaar Kaha Episode 5",
       "duration": "23:00",
-      "upload_time": "7 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://zmasti.com/tere-jaisa-yaar-kaha-episode-5/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Tere-Jaisa-Yaar-Kaha-Episode-5.webp"
     },
     {
       "title": "The Bucket List Episode 5",
       "duration": "29:00",
-      "upload_time": "7 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://zmasti.com/the-bucket-list-episode-5/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/The-Bucket-List-Episode-5.webp"
     },
     {
       "title": "Tere Jaisa Yaar Kaha Episode 2",
       "duration": "19:00",
-      "upload_time": "7 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://zmasti.com/tere-jaisa-yaar-kaha-episode-2-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Tere-Jaisa-Yaar-Kaha-Episode-2.webp"
     },
     {
       "title": "The Bull Of Dalal Street Episode 12",
       "duration": "22:00",
-      "upload_time": "7 Dy Ago",
+      "upload_time": "1 Wk Ago",
       "link": "https://zmasti.com/the-bull-of-dalal-street-episode-12/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/The-Bull-Of-Dalal-Street-Episode-12.webp"
     },
@@ -1574,161 +1728,161 @@
     {
       "title": "Size Matters Episode 3",
       "duration": "14:00",
-      "upload_time": "1 Wk Ago",
+      "upload_time": "2 Wk Ago",
       "link": "https://zmasti.com/size-matters-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Size-Matters-Episode-3.webp"
     },
     {
       "title": "Siskiyaan 4 Episode 1",
       "duration": "21:00",
-      "upload_time": "1 Wk Ago",
+      "upload_time": "2 Wk Ago",
       "link": "https://zmasti.com/siskiyaan-4-episode-1-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Siskiyaan-4-Episode-5.webp"
     },
     {
       "title": "Siskiyaan 4 Episode 2",
       "duration": "26:00",
-      "upload_time": "1 Wk Ago",
+      "upload_time": "2 Wk Ago",
       "link": "https://zmasti.com/siskiyaan-4-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Siskiyaan-4-Episode-2.webp"
     },
     {
       "title": "Siskiyaan 4 Episode 3",
       "duration": "24:00",
-      "upload_time": "1 Wk Ago",
+      "upload_time": "2 Wk Ago",
       "link": "https://zmasti.com/siskiyaan-4-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Siskiyaan-4-Episode-3.webp"
     },
     {
       "title": "Size Matters 2 Episode 6",
       "duration": "18:00",
-      "upload_time": "1 Wk Ago",
+      "upload_time": "2 Wk Ago",
       "link": "https://zmasti.com/size-matters-2-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Size-Matters-2-Episode-6.webp"
     },
     {
       "title": "Size Matters 2 Episode 2",
       "duration": "24:00",
-      "upload_time": "1 Wk Ago",
+      "upload_time": "2 Wk Ago",
       "link": "https://zmasti.com/size-matters-2-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Size-Matters-2-Episode-2.webp"
     },
     {
       "title": "Size Matters Episode 4",
       "duration": "20:00",
-      "upload_time": "1 Wk Ago",
+      "upload_time": "2 Wk Ago",
       "link": "https://zmasti.com/size-matters-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Size-Matters-Episode-4.webp"
     },
     {
       "title": "Size Matters Episode 1",
       "duration": "28:00",
-      "upload_time": "1 Wk Ago",
+      "upload_time": "2 Wk Ago",
       "link": "https://zmasti.com/size-matters-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Size-Matters-Episode-1.webp"
     },
     {
       "title": "Size Matters 2 Episode 4",
       "duration": "22:00",
-      "upload_time": "1 Wk Ago",
+      "upload_time": "2 Wk Ago",
       "link": "https://zmasti.com/size-matters-2-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Size-Matters-2-Episode-4.webp"
     },
     {
       "title": "Siskiyaan 4 Episode 6",
       "duration": "27:00",
-      "upload_time": "1 Wk Ago",
+      "upload_time": "2 Wk Ago",
       "link": "https://zmasti.com/siskiyaan-4-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Siskiyaan-4-Episode-6.webp"
     },
     {
       "title": "Siskiyaan 4 Episode 4",
       "duration": "22:00",
-      "upload_time": "1 Wk Ago",
+      "upload_time": "2 Wk Ago",
       "link": "https://zmasti.com/siskiyaan-4-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Siskiyaan-4-Episode-4.webp"
     },
     {
       "title": "Size Matters 2 Episode 3",
       "duration": "16:00",
-      "upload_time": "1 Wk Ago",
+      "upload_time": "2 Wk Ago",
       "link": "https://zmasti.com/size-matters-2-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Size-Matters-2-Episode-3.webp"
     },
     {
       "title": "Size Matters 2 Episode 7",
       "duration": "21:00",
-      "upload_time": "1 Wk Ago",
+      "upload_time": "2 Wk Ago",
       "link": "https://zmasti.com/size-matters-2-episode-7/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/07/Size-Matters-2-Episode-7.webp"
     },
     {
       "title": "Size Matters Episode 2",
       "duration": "19:00",
-      "upload_time": "1 Wk Ago",
+      "upload_time": "2 Wk Ago",
       "link": "https://zmasti.com/size-matters-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Size-Matters-Episode-2.webp"
     },
     {
       "title": "Size Matters 2 Episode 1",
       "duration": "22:00",
-      "upload_time": "1 Wk Ago",
+      "upload_time": "2 Wk Ago",
       "link": "https://zmasti.com/size-matters-2-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Size-Matters-2-Episode-1.webp"
     },
     {
       "title": "Siskiyaan Episode 1",
       "duration": "28:00",
-      "upload_time": "1 Wk Ago",
+      "upload_time": "2 Wk Ago",
       "link": "https://zmasti.com/siskiyaan-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Siskiyaan-Episode-1.webp"
     },
     {
       "title": "Slip Episode 2",
       "duration": "18:00",
-      "upload_time": "1 Wk Ago",
+      "upload_time": "2 Wk Ago",
       "link": "https://zmasti.com/slip-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Slip-Episode-2.webp"
     },
     {
       "title": "Siskiyaan Episode 2",
       "duration": "24:00",
-      "upload_time": "1 Wk Ago",
+      "upload_time": "2 Wk Ago",
       "link": "https://zmasti.com/siskiyaan-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Siskiyaan-Episode-2.webp"
     },
     {
       "title": "Siskiyaan 3 Episode 1",
       "duration": "27:00",
-      "upload_time": "1 Wk Ago",
+      "upload_time": "2 Wk Ago",
       "link": "https://zmasti.com/siskiyaan-3-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Siskiyaan-3-Episode-1.webp"
     },
     {
       "title": "Siskiyaan 3 Episode 6",
       "duration": "18:00",
-      "upload_time": "1 Wk Ago",
+      "upload_time": "2 Wk Ago",
       "link": "https://zmasti.com/siskiyaan-3-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Siskiyaan-3-Episode-6.webp"
     },
     {
       "title": "Shahad Episode 3",
       "duration": "29:00",
-      "upload_time": "1 Wk Ago",
+      "upload_time": "2 Wk Ago",
       "link": "https://zmasti.com/shahad-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Shahad-Episode-3.webp"
     },
     {
       "title": "Siskiyaan 2 Episode 1",
       "duration": "23:00",
-      "upload_time": "1 Wk Ago",
+      "upload_time": "2 Wk Ago",
       "link": "https://zmasti.com/siskiyaan-2-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Siskiyaan-2-Episode-1.webp"
     },
     {
       "title": "Siskiyaan 3 Episode 3",
       "duration": "24:00",
-      "upload_time": "1 Wk Ago",
+      "upload_time": "2 Wk Ago",
       "link": "https://zmasti.com/siskiyaan-3-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Siskiyaan-3-Episode-3.webp"
     },
@@ -2722,182 +2876,182 @@
     {
       "title": "Paper Episode 1",
       "duration": "28:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://zmasti.com/paper-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Paper-Episode-1.webp"
     },
     {
       "title": "Patra Petika Episode 1",
       "duration": "21:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://zmasti.com/patra-petika-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Patra-Petika-Episode-1.webp"
     },
     {
       "title": "Painter Babu Episode 6",
       "duration": "23:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://zmasti.com/painter-babu-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Painter-Babu-Episode-6.webp"
     },
     {
       "title": "Patra Petika Episode 4",
       "duration": "21:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://zmasti.com/patra-petika-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Patra-Petika-Episode-4.webp"
     },
     {
       "title": "Panchali Episode 5",
       "duration": "21:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://zmasti.com/panchali-episode-5/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Panchali-Episode-4.webp"
     },
     {
       "title": "Patra Petika Episode 5",
       "duration": "18:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://zmasti.com/patra-petika-episode-5/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Patra-Petika-Episode-5.webp"
     },
     {
       "title": "Paro Episode 3",
       "duration": "19:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://zmasti.com/paro-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Paro-Episode-3.webp"
     },
     {
       "title": "Paro Episode 5",
       "duration": "19:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://zmasti.com/paro-episode-5/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Paro-Episode-5.webp"
     },
     {
       "title": "Paro Episode 6",
       "duration": "15:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://zmasti.com/paro-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Paro-Episode-6.webp"
     },
     {
       "title": "Panchali Episode 2",
       "duration": "17:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://zmasti.com/panchali-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Panchali-Episode-2.webp"
     },
     {
       "title": "Paper Episode 2",
       "duration": "31:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://zmasti.com/paper-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Paper-Episode-2.webp"
     },
     {
       "title": "Paro Episode 4",
       "duration": "20:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://zmasti.com/paro-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Paro-Episode-4.webp"
     },
     {
       "title": "Patra Petika Episode 3",
       "duration": "23:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://zmasti.com/patra-petika-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Patra-Petika-Episode-3.webp"
     },
     {
       "title": "Paper Episode 3",
       "duration": "28:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://zmasti.com/paper-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Paper-Episode-3.webp"
     },
     {
       "title": "Paro Episode 7",
       "duration": "20:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://zmasti.com/paro-episode-7/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Paro-Episode-7.webp"
     },
     {
       "title": "Paper Episode 6",
       "duration": "19:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://zmasti.com/paper-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Paper-Episode-6.webp"
     },
     {
       "title": "Panchali Episode 1",
       "duration": "18:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://zmasti.com/panchali-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Panchali-Episode-1.webp"
     },
     {
       "title": "Paro Episode 2",
       "duration": "16:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://zmasti.com/paro-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Paro-Episode-2.webp"
     },
     {
       "title": "Panchali Episode 3",
       "duration": "20:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://zmasti.com/panchali-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Panchali-Episode-3.webp"
     },
     {
       "title": "Numbari Episode 6",
       "duration": "31:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://zmasti.com/numbari-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Numbari-Episode-6.webp"
     },
     {
       "title": "Naye Padosi Episode 1",
       "duration": "20:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://zmasti.com/naye-padosi-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Naye-Padosi-Episode-1.webp"
     },
     {
       "title": "Online Episode 4",
       "duration": "17:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://zmasti.com/online-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Online-Episode-4.webp"
     },
     {
       "title": "Online Episode 8",
       "duration": "19:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://zmasti.com/online-episode-8/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Online-Episode-8.webp"
     },
     {
       "title": "Numbari Episode 1",
       "duration": "26:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://zmasti.com/numbari-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Numbari-Episode-1.webp"
     },
     {
       "title": "Online Episode 6",
       "duration": "18:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://zmasti.com/online-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Online-Episode-6.webp"
     },
     {
       "title": "Numbari Episode 3",
       "duration": "24:00",
-      "upload_time": "2 Wk Ago",
+      "upload_time": "3 Wk Ago",
       "link": "https://zmasti.com/numbari-episode-3-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Numbari-Episode-2.webp"
     },
@@ -3884,140 +4038,140 @@
     {
       "title": "Khalish Episode 9",
       "duration": "18:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://zmasti.com/khalish-episode-9/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Khalish-Episode-9.webp"
     },
     {
       "title": "Khatak Episode 2",
       "duration": "27:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://zmasti.com/khatak-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Khatak-Episode-2.webp"
     },
     {
       "title": "Khalish Episode 4",
       "duration": "22:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://zmasti.com/khalish-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Khalish-Episode-4.webp"
     },
     {
       "title": "Khalish Episode 8",
       "duration": "27:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://zmasti.com/khalish-episode-8/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Khalish-Episode-8.webp"
     },
     {
       "title": "Kirdaar Episode 8",
       "duration": "14:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://zmasti.com/kirdaar-episode-8/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Kirdaar-Episode-8.webp"
     },
     {
       "title": "Khalish Episode 2",
       "duration": "16:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://zmasti.com/khalish-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Khalish-Episode-2.webp"
     },
     {
       "title": "Kasturi Episode 6",
       "duration": "24:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://zmasti.com/kasturi-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Kasturi-Episode-6.webp"
     },
     {
       "title": "Khul Ja Sim Sim Episode 4",
       "duration": "22:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://zmasti.com/khul-ja-sim-sim-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Khul-Ja-Sim-Sim-Episode-4.webp"
     },
     {
       "title": "Khalish Episode 6",
       "duration": "29:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://zmasti.com/khalish-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Khalish-Episode-6.webp"
     },
     {
       "title": "Khatak Episode 4",
       "duration": "23:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://zmasti.com/khatak-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Khatak-Episode-4.webp"
     },
     {
       "title": "Khul Ja Sim Sim Episode 2",
       "duration": "28:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://zmasti.com/khul-ja-sim-sim-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Khul-Ja-Sim-Sim-Episode-2.webp"
     },
     {
       "title": "Kirdaar Episode 7",
       "duration": "18:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://zmasti.com/kirdaar-episode-7/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Kirdaar-Episode-7.webp"
     },
     {
       "title": "Khatak Episode 1",
       "duration": "24:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://zmasti.com/khatak-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Khatak-Episode-1.webp"
     },
     {
       "title": "Kissa Episode 1",
       "duration": "21:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://zmasti.com/kissa-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Kissa-Episode-1.webp"
     },
     {
       "title": "Kirdaar Episode 9",
       "duration": "12:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://zmasti.com/kirdaar-episode-9/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Kirdaar-Episode-9.webp"
     },
     {
       "title": "Khalish Episode 7",
       "duration": "24:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://zmasti.com/khalish-episode-7/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Khalish-Episode-7.webp"
     },
     {
       "title": "Khatak Episode 3",
       "duration": "22:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://zmasti.com/khatak-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Khatak-Episode-3.webp"
     },
     {
       "title": "Kissa Episode 2",
       "duration": "30:00",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://zmasti.com/kissa-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Kissa-Episode-2.webp"
     },
     {
       "title": "Buddha Pyaar Episode 1",
       "duration": "",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://zmasti.com/buddha-pyaar-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/07/Buddha-Pyaar-Episode-1.webp"
     },
     {
       "title": "Buddha Pyaar Episode 6",
       "duration": "",
-      "upload_time": "3 Wk Ago",
+      "upload_time": "4 Wk Ago",
       "link": "https://zmasti.com/buddha-pyaar-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/07/Buddha-Pyaar-Episode-6.webp"
     },
@@ -4801,168 +4955,168 @@
     {
       "title": "Ek Phool Do Maali Episode 6",
       "duration": "",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://zmasti.com/ek-phool-do-maali-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/06/Ek-Phool-Do-Maali-Episode-6.webp"
     },
     {
       "title": "Ek Phool Do Maali Episode 3",
       "duration": "",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://zmasti.com/ek-phool-do-maali-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/06/Ek-Phool-Do-Maali-Episode-3.webp"
     },
     {
       "title": "Nehlee Par Dehla Episode 5",
       "duration": "",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://zmasti.com/nehlee-par-dehla-episode-5/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/06/Nehlee-Par-Dehla-Episode-5.webp"
     },
     {
       "title": "Ek Phool Do Maali Episode 2",
       "duration": "",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://zmasti.com/ek-phool-do-maali-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/06/Ek-Phool-Do-Maali-Episode-2.webp"
     },
     {
       "title": "Rasili Episode 2",
       "duration": "",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://zmasti.com/rasili-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/06/Rasili-Episode-2.webp"
     },
     {
       "title": "Seeti Maar Episode 3",
       "duration": "",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://zmasti.com/seeti-maar-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/06/Seeti-Maar-Episode-3.jpg"
     },
     {
       "title": "Hope Episode 1",
       "duration": "",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://zmasti.com/hope-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/06/Hope-Episode-1.webp"
     },
     {
       "title": "Hope Episode 2",
       "duration": "",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://zmasti.com/hope-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/06/Hope-Episode-2.webp"
     },
     {
       "title": "Malai Episode 5",
       "duration": "",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://zmasti.com/malai-episode-5/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Malai-Episode-5.webp"
     },
     {
       "title": "Kamasuthram Episode 2",
       "duration": "",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://zmasti.com/kamasuthram-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/06/Kamasuthram-Episode-2.webp"
     },
     {
       "title": "Nehlee Par Dehla Episode 2",
       "duration": "",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://zmasti.com/nehlee-par-dehla-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/06/Nehlee-Par-Dehla-Episode-2.webp"
     },
     {
       "title": "Angrezy Akhbar Episode 5",
       "duration": "",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://zmasti.com/angrezy-akhbar-episode-5/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/06/Angrezy-Akhbar-Episode-5.webp"
     },
     {
       "title": "Malai Episode 4",
       "duration": "",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://zmasti.com/malai-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Malai-Episode-4.webp"
     },
     {
       "title": "Angrezy Akhbar Episode 6",
       "duration": "",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://zmasti.com/angrezy-akhbar-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/06/Angrezy-Akhbar-Episode-6.webp"
     },
     {
       "title": "Nehlee Par Dehla Episode 3",
       "duration": "",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://zmasti.com/nehlee-par-dehla-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/06/Nehlee-Par-Dehla-Episode-3.webp"
     },
     {
       "title": "Wrong Turn Episode 2",
       "duration": "",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://zmasti.com/wrong-turn-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Wrong-Turn-Episode-2.webp"
     },
     {
       "title": "Angrezy Akhbar Episode 1",
       "duration": "",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://zmasti.com/angrezy-akhbar-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/06/Angrezy-Akhbar-Episode-1.webp"
     },
     {
       "title": "Malai Episode 1",
       "duration": "",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://zmasti.com/malai-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Malai-Episode-1.webp"
     },
     {
       "title": "Wrong Turn Episode 3",
       "duration": "",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://zmasti.com/wrong-turn-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Wrong-Turn-Episode-3.webp"
     },
     {
       "title": "Angrezy Akhbar Episode 3",
       "duration": "",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://zmasti.com/angrezy-akhbar-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/06/Angrezy-Akhbar-Episode-3.webp"
     },
     {
       "title": "Malai Episode 2",
       "duration": "",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://zmasti.com/malai-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Malai-Episode-2.webp"
     },
     {
       "title": "Angrezy Akhbar Episode 2",
       "duration": "",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://zmasti.com/angrezy-akhbar-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/06/Angrezy-Akhbar-Episode-2.webp"
     },
     {
       "title": "Angrezy Akhbar Episode 4",
       "duration": "",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://zmasti.com/angrezy-akhbar-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/06/Angrezy-Akhbar-Episode-4.webp"
     },
     {
       "title": "Haseena Maan Jayegi Episode 8",
       "duration": "",
-      "upload_time": "4 Wk Ago",
+      "upload_time": "1 Mo Ago",
       "link": "https://zmasti.com/haseena-maan-jayegi-episode-8/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/06/Haseena-Maan-Jayegi-Episode-8.webp"
     },
@@ -7279,126 +7433,126 @@
     {
       "title": "Nain Sukh Episode 5",
       "duration": "",
-      "upload_time": "1 Mo Ago",
+      "upload_time": "2 Mo Ago",
       "link": "https://zmasti.com/nain-sukh-episode-5/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/05/Nain-Sukh-Episode-5.webp"
     },
     {
       "title": "Hot Web Series Good Luck Episode 6",
       "duration": "",
-      "upload_time": "1 Mo Ago",
+      "upload_time": "2 Mo Ago",
       "link": "https://zmasti.com/hot-web-series-good-luck-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/05/Good-Luck-Episode-6.webp"
     },
     {
       "title": "Nain Sukh Episode 4",
       "duration": "",
-      "upload_time": "1 Mo Ago",
+      "upload_time": "2 Mo Ago",
       "link": "https://zmasti.com/nain-sukh-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/05/Nain-Sukh-Episode-4.webp"
     },
     {
       "title": "Dhoka Episode 4",
       "duration": "",
-      "upload_time": "1 Mo Ago",
+      "upload_time": "2 Mo Ago",
       "link": "https://zmasti.com/dhoka-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/05/Dhoka-Episode-4.webp"
     },
     {
       "title": "Nain Sukh Episode 7",
       "duration": "",
-      "upload_time": "1 Mo Ago",
+      "upload_time": "2 Mo Ago",
       "link": "https://zmasti.com/nain-sukh-episode-7/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/05/Nain-Sukh-Episode-7.webp"
     },
     {
       "title": "Badalte Rishte Episode 4",
       "duration": "",
-      "upload_time": "1 Mo Ago",
+      "upload_time": "2 Mo Ago",
       "link": "https://zmasti.com/badalte-rishte-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/05/Badalte-Rishte-Episode-4.webp"
     },
     {
       "title": "Ulanghan Episode 6",
       "duration": "",
-      "upload_time": "1 Mo Ago",
+      "upload_time": "2 Mo Ago",
       "link": "https://zmasti.com/ulanghan-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/05/Ulanghan-Episode-6.webp"
     },
     {
       "title": "Nain Sukh Episode 1",
       "duration": "",
-      "upload_time": "1 Mo Ago",
+      "upload_time": "2 Mo Ago",
       "link": "https://zmasti.com/nain-sukh-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/05/Nain-Sukh-Episode-1.webp"
     },
     {
       "title": "Ulanghan Episode 3",
       "duration": "",
-      "upload_time": "1 Mo Ago",
+      "upload_time": "2 Mo Ago",
       "link": "https://zmasti.com/ulanghan-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/05/Ulanghan-Episode-3.webp"
     },
     {
       "title": "Ulanghan Episode 1",
       "duration": "",
-      "upload_time": "1 Mo Ago",
+      "upload_time": "2 Mo Ago",
       "link": "https://zmasti.com/ulanghan-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/05/Ulanghan-Episode-1.webp"
     },
     {
       "title": "Badalte Rishte Episode 2",
       "duration": "",
-      "upload_time": "1 Mo Ago",
+      "upload_time": "2 Mo Ago",
       "link": "https://zmasti.com/badalte-rishte-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/05/Badalte-Rishte-Episode-2.webp"
     },
     {
       "title": "Ulanghan Episode 5",
       "duration": "",
-      "upload_time": "1 Mo Ago",
+      "upload_time": "2 Mo Ago",
       "link": "https://zmasti.com/ulanghan-episode-5/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/05/Ulanghan-Episode-5.webp"
     },
     {
       "title": "Bloody Marry Episode 7",
       "duration": "",
-      "upload_time": "1 Mo Ago",
+      "upload_time": "2 Mo Ago",
       "link": "https://zmasti.com/bloody-marry-episode-7/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/05/Bloody-Marry-Episode-7.webp"
     },
     {
       "title": "Badalte Rishte Episode 10",
       "duration": "",
-      "upload_time": "1 Mo Ago",
+      "upload_time": "2 Mo Ago",
       "link": "https://zmasti.com/badalte-rishte-episode-10/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/05/Badalte-Rishte-Episode-10.webp"
     },
     {
       "title": "Badalte Rishte Episode 9",
       "duration": "",
-      "upload_time": "1 Mo Ago",
+      "upload_time": "2 Mo Ago",
       "link": "https://zmasti.com/badalte-rishte-episode-9/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/05/Badalte-Rishte-Episode-9.webp"
     },
     {
       "title": "Ulanghan Episode 7",
       "duration": "",
-      "upload_time": "1 Mo Ago",
+      "upload_time": "2 Mo Ago",
       "link": "https://zmasti.com/ulanghan-episode-7/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/05/Ulanghan-Episode-7.webp"
     },
     {
       "title": "Bloody Marry Episode 6",
       "duration": "",
-      "upload_time": "1 Mo Ago",
+      "upload_time": "2 Mo Ago",
       "link": "https://zmasti.com/bloody-marry-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/05/Bloody-Marry-Episode-6.webp"
     },
     {
       "title": "Bloody Marry Episode 3",
       "duration": "",
-      "upload_time": "1 Mo Ago",
+      "upload_time": "2 Mo Ago",
       "link": "https://zmasti.com/bloody-marry-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2025/05/Bloody-Marry-Episode-3.webp"
     },
@@ -12207,231 +12361,231 @@
     {
       "title": "Anari Episode 6",
       "duration": "20:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/anari-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Anari-Episode-6.webp"
     },
     {
       "title": "Andar Ki Baat Episode 1",
       "duration": "25:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/andar-ki-baat-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Andar-Ki-Baat-Episode-10.webp"
     },
     {
       "title": "Anniversary Surprise Episode 1",
       "duration": "13:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/anniversary-surprise-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Anniversary-Surprise-Episode-1.webp"
     },
     {
       "title": "Anniversary Surprise Episode 2",
       "duration": "12:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/anniversary-surprise-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Anniversary-Surprise-Episode-2.webp"
     },
     {
       "title": "Anniversary Gift Episode 2",
       "duration": "20:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/anniversary-gift-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Anniversary-Gift-Episode-2.webp"
     },
     {
       "title": "Andar Ki Baat Episode 2",
       "duration": "21:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/andar-ki-baat-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Andar-Ki-Baat-Episode-2.webp"
     },
     {
       "title": "Andar Ki Baat Episode 9",
       "duration": "26:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/andar-ki-baat-episode-9/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Andar-Ki-Baat-Episode-9.webp"
     },
     {
       "title": "Angoori Episode 3",
       "duration": "19:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/angoori-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Angoori-Episode-3.webp"
     },
     {
       "title": "Andar Ki Baat Episode 3",
       "duration": "19:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/andar-ki-baat-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Andar-Ki-Baat-Episode-3.webp"
     },
     {
       "title": "3G Gaali Galoch Girls Episode 2",
       "duration": "10:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/3g-gaali-galoch-girls-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/3G-Gaali-Galoch-Girls-Episode-2.webp"
     },
     {
       "title": "Aamras Episode 7",
       "duration": "24:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/aamras-episode-7/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Aamras-Episode-7.webp"
     },
     {
       "title": "Aamras Episode 2",
       "duration": "24:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/aamras-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Aamras-Episode-2.webp"
     },
     {
       "title": "3G Gaali Galoch Girls Episode 3",
       "duration": "11:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/3g-gaali-galoch-girls-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/3G-Gaali-Galoch-Girls-Episode-3.webp"
     },
     {
       "title": "Aate Ki Chakki Episode 1",
       "duration": "13:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/aate-ki-chakki-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Aate-Ki-Chakki-Episode-1.webp"
     },
     {
       "title": "Aamras Episode 1",
       "duration": "22:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/aamras-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Aamras-Episode-1.webp"
     },
     {
       "title": "Aamras Episode 8",
       "duration": "16:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/aamras-episode-8/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Aamras-Episode-8.webp"
     },
     {
       "title": "Anari Episode 2",
       "duration": "20:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/anari-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Anari-Episode-2.webp"
     },
     {
       "title": "Aate Ki Chakki Episode 2",
       "duration": "10:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/aate-ki-chakki-episode-2/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Aate-Ki-Chakki-Episode-2.webp"
     },
     {
       "title": "Aate Ki Chakki Episode 3",
       "duration": "18:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/aate-ki-chakki-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Aate-Ki-Chakki-Episode-3.webp"
     },
     {
       "title": "Aamras Episode 6",
       "duration": "20:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/aamras-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Aamras-Episode-6.webp"
     },
     {
       "title": "3G Gaali Galoch Girls Episode 5",
       "duration": "13:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/3g-gaali-galoch-girls-episode-5/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/3G-Gaali-Galoch-Girls-Episode-5.webp"
     },
     {
       "title": "3G Gaali Galoch Girls Episode 4",
       "duration": "12:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/3g-gaali-galoch-girls-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/3G-Gaali-Galoch-Girls-Episode-4.webp"
     },
     {
       "title": "Anari Episode 1",
       "duration": "24:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/anari-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Anari-Episode-1.webp"
     },
     {
       "title": "Aamras Episode 3",
       "duration": "18:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/aamras-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Aamras-Episode-3.webp"
     },
     {
       "title": "Anari Episode 3",
       "duration": "25:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/anari-episode-3/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Anari-Episode-3.webp"
     },
     {
       "title": "3G Gaali Galoch Girls Episode 8",
       "duration": "17:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/3g-gaali-galoch-girls-episode-8/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/3G-Gaali-Galoch-Girls-Episode-8.webp"
     },
     {
       "title": "3G Gaali Galoch Girls Episode 7",
       "duration": "13:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/3g-gaali-galoch-girls-episode-7/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/3G-Gaali-Galoch-Girls-Episode-7.webp"
     },
     {
       "title": "Anari Episode 5",
       "duration": "17:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/anari-episode-5/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Anari-Episode-5.webp"
     },
     {
       "title": "Aamras Episode 5",
       "duration": "21:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/aamras-episode-5/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Aamras-Episode-5.webp"
     },
     {
       "title": "Anari Episode 4",
       "duration": "19:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/anari-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Anari-Episode-4.webp"
     },
     {
       "title": "Aamras Episode 4",
       "duration": "23:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/aamras-episode-4/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/Aamras-Episode-4.webp"
     },
     {
       "title": "3G Gaali Galoch Girls Episode 6",
       "duration": "12:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/3g-gaali-galoch-girls-episode-6/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/3G-Gaali-Galoch-Girls-Episode-6.webp"
     },
     {
       "title": "3G Gaali Galoch Girls Episode 1",
       "duration": "11:00",
-      "upload_time": "2 Mo Ago",
+      "upload_time": "3 Mo Ago",
       "link": "https://zmasti.com/3g-gaali-galoch-girls-episode-1/",
       "thumbnail": "https://zmasti.com/wp-content/uploads/2024/11/3G-Gaali-Galoch-Girls-Episode-1.webp"
     },
